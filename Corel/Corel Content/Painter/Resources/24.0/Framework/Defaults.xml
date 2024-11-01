@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<application-defaults>
+	<default key="max-brush-radius" value="750.0" />
+	<default key="execution-mode" value="0" />		<!-- 0: stroke preview	1: tests			-->
+	<default key="stroke-preview-mode" value="2" />	<!-- 0: brush variant	1: brush category	2: brush library	-->
+</application-defaults>

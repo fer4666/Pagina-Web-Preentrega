@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="Strings.xsl"?>
+<string-table>
+  <category key="Str#" comment="Brushes - Acrylics">
+    <string key="17248_1" loc-id="17248_1" value="ペイントとブレンド"/>
+    <string key="17248_2" loc-id="17248_2" value="不透明ブリスル"/>
+    <string key="17248_3" loc-id="17248_3" value="ドライ平筆"/>
+    <string key="17248_5" loc-id="17248_5" value="ウェット細筆"/>
+    <string key="17248_6" loc-id="17248_6" value="不透明なディテール"/>
+    <string key="17248_7" loc-id="17248_7" value="ロングフラット"/>
+    <string key="17248_9" loc-id="17248_9" value="ゲル ウォッシュ"/>
+    <string key="17248_10" loc-id="17248_10" value="ウェットソフト"/>
+    <string key="17248_12" loc-id="17248_12" value="ウェット厚塗り"/>
+  </category>
+
+  <category key="Str#" comment="Brushes - Airbrushes">
+    <string key="17249_3" loc-id="17249_3" value="ソフト"/>
+    <string key="17249_9" loc-id="17249_9" value="ピクセルスプレー"/>
+    <string key="17249_10" loc-id="17249_10" value="荒目スプレー"/>
+    <string key="17249_12" loc-id="17249_12" value="霧吹き"/>
+    <string key="17249_14" loc-id="17249_14" value="ワイルド"/>
+  </category>
+
+  <category key="Str#" comment="Brushes - Artists' Oils">
+    <string key="17250_1" loc-id="17250_1" value="色引きブリスル"/>
+    <string key="17250_2" loc-id="17250_2" value="ファン"/>
+    <string key="17250_3" loc-id="17250_3" value="フラット"/>
+    <string key="17250_4" loc-id="17250_4" value="フラット先細り"/>
+    <string key="17250_5" loc-id="17250_5" value="短"/>
+    <string key="17250_6" loc-id="17250_6" value="ハジバミ"/>
+    <string key="17250_7" loc-id="17250_7" value="幅広い塊"/>
+  </category>
+
+  <category key="Str#" comment="Brushes - Brave Oils">
+    <string key="17253_7" loc-id="17253_7" value="バター風"/>
+    <string key="17253_8" loc-id="17253_8" value="質感のある点画"/>
+    <string key="17253_9" loc-id="17253_9" value="乱雑"/>
+  </category>
+
+  <category key="Str#" comment="Brushes - Buildup Ink">
+    <string key="17254_2" loc-id="17254_2" value="幅広スムーズ"/>
+    <string key="17254_3" loc-id="17254_3" value="クロスハッチ"/>
+    <string key="17254_5" loc-id="17254_5" value="クロウクィル"/>
+    <string key="17254_8" loc-id="17254_8" value="厚さと薄さ"/>
+    <string key="17254_9" loc-id="17254_9" value="尻"/>
+    <string key="17254_10" loc-id="17254_10" value="ギザギザ"/>
+    <string key="17254_11" loc-id="17254_11" value="垂れる"/>
+    <string key="17254_12" loc-id="17254_12" value="インクもれペン"/>
+  </category>
+
+  <category key="Str#" comment="Brushes - Chalk">
+    <string key="17256_1" loc-id="17256_1" value="標準チョーク"/>
+    <string key="17256_2" loc-id="17256_2" value="太いチョーク"/>
+    <string key="17256_3" loc-id="17256_3" value="スケッチ チョーク"/>
+    <string key="17256_6" loc-id="17256_6" value="チョーク(細)"/>
+    <string key="17256_7" loc-id="17256_7" value="角チョーク"/>
+  </category>
+
+  <category key="Str#" comment="Brushes - Conte">
+    <string key="17257_5" loc-id="17257_5" value="先丸コンテ"/>
+  </category>
+
+  <category key="Str#" comment="Brushes - F-X">
+    <string key="17260_1" loc-id="17260_1" value="グロウ"/>
+    <string key="17260_2" loc-id="17260_2" value="まだらグロー"/>
+    <string key="17260_4" loc-id="17260_4" value="雲"/>
+    <string key="17260_7" loc-id="17260_7" value="小さな稲光"/>
+    <string key="17260_14" loc-id="17260_14" value="フェアリーダスト"/>
+  </category>
+
+  <category key="Str#" comment="Brushes - Glazing">
+    <string key="17262_1" loc-id="17262_1" value="ラフ"/>
+    <string key="17262_3" loc-id="17262_3" value="ソフト"/>
+    <string key="17262_4" loc-id="17262_4" value="ハード"/>
+    <string key="17262_10" loc-id="17262_10" value="荒目ブリスル"/>
+    <string key="17262_13" loc-id="17262_13" value="ラスティック"/>
+  </category>
+
+  <category key="Str#" comment="Brushes - Glow Particles">
+    <string key="17263_1" loc-id="17263_1" value="潰れた縫い目"/>
+    <string key="17263_2" loc-id="17263_2" value="火花"/>
+  </category>
+
+  <category key="Str#" comment="Brushes - Gouache">
+    <string key="17264_1" loc-id="17264_1" value="ソフト"/>
+    <string key="17264_4" loc-id="17264_4" value="フラット"/>
+    <string key="17264_5" loc-id="17264_5" value="薄いブリスル"/>
+    <string key="17264_6" loc-id="17264_6" value="厚いソフト"/>
+    <string key="17264_9" loc-id="17264_9" value="細筆(不透明)"/>
+    <string key="17264_12" loc-id="17264_12" value="レーキ"/>
+  </category>
+
+  <category key="Str#" comment="Brushes - Oils">
+    <string key="17272_1" loc-id="17272_1" value="印象派"/>
+    <string key="17272_5" loc-id="17272_5" value="ソフト"/>
+    <string key="17272_6" loc-id="17272_6" value="ブリスル(中)"/>
+    <string key="17272_10" loc-id="17272_10" value="ハードブリスル"/>
+    <string key="17272_11" loc-id="17272_11" value="薄いブリスル"/>
+  </category>
+
+  <category key="Str#" comment="Brushes - Palette Knives">
+    <string key="17273_2" loc-id="17273_2" value="色乗せパレットナイフ"/>
+  </category>
+
+  <category key="Str#" comment="Brushes - Pencils">
+    <string key="17275_4" loc-id="17275_4" value="硬度 2B"/>
+    <string key="17275_6" loc-id="17275_6" value="硬度 6B"/>
+    <string key="17275_10" loc-id="17275_10" value="ソフト粒子"/>
+    <string key="17275_11" loc-id="17275_11" value="ハード粒子"/>
+  </category>
+
+  <category key="Str#" comment="Brushes - Sargent">
+    <string key="17281_1" loc-id="17281_1" value="サージェント"/>
+    <string key="17281_4" loc-id="17281_4" value="ワイルドなシミ"/>
+    <string key="17281_5" loc-id="17281_5" value="クァーキー"/>
+    <string key="17281_7" loc-id="17281_7" value="粒状の塊"/>
+    <string key="17281_9" loc-id="17281_9" value="ライト テクスチャ"/>
+    <string key="17281_11" loc-id="17281_11" value="粒状シミ"/>
+    <string key="17281_12" loc-id="17281_12" value="パレットナイフ"/>
+    <string key="17281_15" loc-id="17281_15" value="液体スケッチャー"/>
+  </category>
+
+  <category key="Str#" comment="Brushes - Sponges">
+    <string key="17284_1" loc-id="17284_1" value="ソフト"/>
+    <string key="17284_2" loc-id="17284_2" value="粒状"/>
+    <string key="17284_3" loc-id="17284_3" value="大きなオイリー"/>
+    <string key="17284_4" loc-id="17284_4" value="シミ"/>
+    <string key="17284_6" loc-id="17284_6" value="グレーズ"/>
+    <string key="17284_7" loc-id="17284_7" value="ロードされたウェット"/>
+    <string key="17284_8" loc-id="17284_8" value="海綿"/>
+  </category>
+
+  <category key="Str#" comment="Brushes - Sumi-e">
+    <string key="17285_3" loc-id="17285_3" value="シック ブロッサム ブラシ"/>
+    <string key="17285_7" loc-id="17285_7" value="先細ブラシ"/>
+    <string key="17285_13" loc-id="17285_13" value="シン細密ブラシ"/>
+    <string key="17285_14" loc-id="17285_14" value="ウェット粒子ブラシ"/>
+  </category>
+
+  <category key="Str#" comment="Brushes - Thick Particles">
+    <string key="17292_3" loc-id="17292_3" value="スプラッター"/>
+    <string key="17292_5" loc-id="17292_5" value="ソフトブリスル"/>
+    <string key="17292_9" loc-id="17292_9" value="毛皮バースト"/>
+    <string key="17292_11" loc-id="17292_11" value="蜘蛛の巣風チェーン"/>
+  </category>
+
+  <category key="Str#" comment="Brushes - Thin Particles">
+    <string key="17293_1" loc-id="17293_1" value="毛皮スプレー"/>
+    <string key="17293_2" loc-id="17293_2" value="毛皮シッポ"/>
+    <string key="17293_3" loc-id="17293_3" value="毛皮"/>
+    <string key="17293_5" loc-id="17293_5" value="フレア"/>
+    <string key="17293_7" loc-id="17293_7" value="粒状"/>
+    <string key="17293_8" loc-id="17293_8" value="シルクレインボー"/>
+    <string key="17293_9" loc-id="17293_9" value="シルク フラワー"/>
+    <string key="17293_10" loc-id="17293_10" value="スモーキーチェーン"/>
+    <string key="17293_11" loc-id="17293_11" value="塊"/>
+    <string key="17293_12" loc-id="17293_12" value="コンセプトクリーチャー"/>
+    <string key="17293_13" loc-id="17293_13" value="スモーキー核"/>
+    <string key="17293_14" loc-id="17293_14" value="シルク リボン"/>
+  </category>
+
+  <category key="Str#" comment="Brushes - Charcoal">
+    <string key="17297_3" loc-id="17297_3" value="くずれた"/>
+    <string key="17297_4" loc-id="17297_4" value="シミ"/>
+    <string key="17297_5" loc-id="17297_5" value="ソフト"/>
+    <string key="17297_7" loc-id="17297_7" value="先丸鉛筆"/>
+    <string key="17297_8" loc-id="17297_8" value="軽量ペンシル"/>
+  </category>
+
+  <category key="Str#" comment="Brushes - Markers">
+    <string key="17299_2" loc-id="17299_2" value="ノミの先端"/>
+    <string key="17299_3" loc-id="17299_3" value="フェルト"/>
+    <string key="17299_4" loc-id="17299_4" value="掠れた感じ"/>
+    <string key="17299_6" loc-id="17299_6" value="ドライ先端"/>
+    <string key="17299_7" loc-id="17299_7" value="ダーティ"/>
+    <string key="17299_9" loc-id="17299_9" value="極細ペン"/>
+  </category>
+
+  <category key="Str#" comment="Brushes - Pastels">
+    <string key="17300_2" loc-id="17300_2" value="スケッチ パステル"/>
+    <string key="17300_3" loc-id="17300_3" value="ハード長方形パステル"/>
+    <string key="17300_4" loc-id="17300_4" value="かすれたスクエア パステル"/>
+    <string key="17300_5" loc-id="17300_5" value="ドライ スクラッチ パステル"/>
+    <string key="17300_6" loc-id="17300_6" value="ルーズ長方形パステル"/>
+    <string key="17300_7" loc-id="17300_7" value="ソフト三角形パステル"/>
+    <string key="17300_12" loc-id="17300_12" value="オイリー チャンキー パステル"/>
+  </category>
+
+  <category key="Str#" comment="Brushes - Fluid - Build and Sculpt">
+    <string key="17304_10" loc-id="17304_10" value="形状ビルダー"/>
+    <string key="17304_13" loc-id="17304_13" value="薄"/>
+  </category>
+
+  <category key="Str#" comment="Brushes - Fluid - Paint and Blend">
+    <string key="17305_2" loc-id="17305_2" value="ブラシ風"/>
+    <string key="17305_9" loc-id="17305_9" value="スムース スポンジ"/>
+    <string key="17305_12" loc-id="17305_12" value="スウッシュ"/>
+    <string key="17305_13" loc-id="17305_13" value="厚塗りブリスル"/>
+  </category>
+
+  <category key="Str#" comment="Brushes - Watercolor">
+    <string key="17306_1" loc-id="17306_1" value="ブリスル"/>
+    <string key="17306_2" loc-id="17306_2" value="ドライ ブラシ"/>
+    <string key="17306_3" loc-id="17306_3" value="ハジバミ"/>
+    <string key="17306_4" loc-id="17306_4" value="ぼかし塗り (大)"/>
+    <string key="17306_5" loc-id="17306_5" value="空"/>
+    <string key="17306_6" loc-id="17306_6" value="薄い板"/>
+    <string key="17306_7" loc-id="17306_7" value="スポンジ"/>
+  </category>
+
+  <category key="CorelDRAW - Brush Categories">
+    <string key="aa.Recommended" value="推奨ブラシ"/>
+    <string key="Acrylics" value="アクリル"/>
+    <string key="Airbrushes" value="エアブラシ"/>
+    <string key="Charcoal" value="木炭"/>
+    <string key="Digital Effects" value="デジタル効果"/>
+    <string key="Fluid" value="流体"/>
+    <string key="Glazing" value="グレーズ"/>
+    <string key="Gouache" value="グワッシュ"/>
+    <string key="Inks" value="インク"/>
+    <string key="Markers" value="マーカー"/>
+    <string key="Oils" value="油彩"/>
+    <string key="Particles" value="粒子"/>
+    <string key="Pastels and Chalks" value="パステルとチョーク"/>
+    <string key="Pencils" value="鉛筆"/>
+    <string key="Sponges" value="スポンジ"/>
+    <string key="Watercolor" value="水彩"/>
+  </category>
+
+</string-table>

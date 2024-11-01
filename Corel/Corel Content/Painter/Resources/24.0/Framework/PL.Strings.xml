@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="Strings.xsl"?>
+<string-table>
+  <category key="Str#" comment="Brushes - Acrylics">
+    <string key="17248_1" loc-id="17248_1" value="Maluj i mieszaj"/>
+    <string key="17248_2" loc-id="17248_2" value="Nieprzezroczyste włosie"/>
+    <string key="17248_3" loc-id="17248_3" value="Suche, płaskie"/>
+    <string key="17248_5" loc-id="17248_5" value="Mokry szczegół"/>
+    <string key="17248_6" loc-id="17248_6" value="Nieprzezroczysty szczegół"/>
+    <string key="17248_7" loc-id="17248_7" value="Długie, płaskie"/>
+    <string key="17248_9" loc-id="17248_9" value="Żelowe rozmycie"/>
+    <string key="17248_10" loc-id="17248_10" value="Mokre, miękkie"/>
+    <string key="17248_12" loc-id="17248_12" value="Mokre, gęste"/>
+  </category>
+
+  <category key="Str#" comment="Brushes - Airbrushes">
+    <string key="17249_3" loc-id="17249_3" value="Miękkie"/>
+    <string key="17249_9" loc-id="17249_9" value="Rozpylacz pikseli"/>
+    <string key="17249_10" loc-id="17249_10" value="Gruby rozpylacz"/>
+    <string key="17249_12" loc-id="17249_12" value="Posypka"/>
+    <string key="17249_14" loc-id="17249_14" value="Dzikie"/>
+  </category>
+
+  <category key="Str#" comment="Brushes - Artists' Oils">
+    <string key="17250_1" loc-id="17250_1" value="Smużące włosie"/>
+    <string key="17250_2" loc-id="17250_2" value="Wachlarz"/>
+    <string key="17250_3" loc-id="17250_3" value="Płaski"/>
+    <string key="17250_4" loc-id="17250_4" value="Płaski, zwężony"/>
+    <string key="17250_5" loc-id="17250_5" value="Krótki"/>
+    <string key="17250_6" loc-id="17250_6" value="Leszczyna"/>
+    <string key="17250_7" loc-id="17250_7" value="Szeroki, masywny"/>
+  </category>
+
+  <category key="Str#" comment="Brushes - Brave Oils">
+    <string key="17253_7" loc-id="17253_7" value="Maślany"/>
+    <string key="17253_8" loc-id="17253_8" value="Kropkowanie z teksturą"/>
+    <string key="17253_9" loc-id="17253_9" value="Niechlujny"/>
+  </category>
+
+  <category key="Str#" comment="Brushes - Buildup Ink">
+    <string key="17254_2" loc-id="17254_2" value="Szeroki, gładki"/>
+    <string key="17254_3" loc-id="17254_3" value="Kreskowanie krzyżykowe"/>
+    <string key="17254_5" loc-id="17254_5" value="Pióro do rysowania"/>
+    <string key="17254_8" loc-id="17254_8" value="Grube i cienkie"/>
+    <string key="17254_9" loc-id="17254_9" value="Kredka Coit"/>
+    <string key="17254_10" loc-id="17254_10" value="Postrzępiony"/>
+    <string key="17254_11" loc-id="17254_11" value="Kapiący"/>
+    <string key="17254_12" loc-id="17254_12" value="Cieknące pióro"/>
+  </category>
+
+  <category key="Str#" comment="Brushes - Chalk">
+    <string key="17256_1" loc-id="17256_1" value="Podstawowa kreda"/>
+    <string key="17256_2" loc-id="17256_2" value="Gruba kreda"/>
+    <string key="17256_3" loc-id="17256_3" value="Kreda do szkicowania"/>
+    <string key="17256_6" loc-id="17256_6" value="Ostra kreda"/>
+    <string key="17256_7" loc-id="17256_7" value="Kwadratowa kreda"/>
+  </category>
+
+  <category key="Str#" comment="Brushes - Conte">
+    <string key="17257_5" loc-id="17257_5" value="Tępa kredka Conte"/>
+  </category>
+
+  <category key="Str#" comment="Brushes - F-X">
+    <string key="17260_1" loc-id="17260_1" value="Poświata"/>
+    <string key="17260_2" loc-id="17260_2" value="Cętkowana poświata"/>
+    <string key="17260_4" loc-id="17260_4" value="Chmura"/>
+    <string key="17260_7" loc-id="17260_7" value="Mała błyskawica"/>
+    <string key="17260_14" loc-id="17260_14" value="Magiczny pyłek"/>
+  </category>
+
+  <category key="Str#" comment="Brushes - Glazing">
+    <string key="17262_1" loc-id="17262_1" value="Chropowaty"/>
+    <string key="17262_3" loc-id="17262_3" value="Miękki"/>
+    <string key="17262_4" loc-id="17262_4" value="Twardy"/>
+    <string key="17262_10" loc-id="17262_10" value="Grube włosie"/>
+    <string key="17262_13" loc-id="17262_13" value="Rustykalny"/>
+  </category>
+
+  <category key="Str#" comment="Brushes - Glow Particles">
+    <string key="17263_1" loc-id="17263_1" value="Popękane spoiny"/>
+    <string key="17263_2" loc-id="17263_2" value="Świecidełko"/>
+  </category>
+
+  <category key="Str#" comment="Brushes - Gouache">
+    <string key="17264_1" loc-id="17264_1" value="Miękkie"/>
+    <string key="17264_4" loc-id="17264_4" value="Płaskie"/>
+    <string key="17264_5" loc-id="17264_5" value="Cienkie włosie"/>
+    <string key="17264_6" loc-id="17264_6" value="Gruby, miękki"/>
+    <string key="17264_9" loc-id="17264_9" value="Nieprzezroczysty szczegół"/>
+    <string key="17264_12" loc-id="17264_12" value="Grabie"/>
+  </category>
+
+  <category key="Str#" comment="Brushes - Oils">
+    <string key="17272_1" loc-id="17272_1" value="Impresjonizm"/>
+    <string key="17272_5" loc-id="17272_5" value="Miękkie"/>
+    <string key="17272_6" loc-id="17272_6" value="Średnie włosie"/>
+    <string key="17272_10" loc-id="17272_10" value="Twarde włosie"/>
+    <string key="17272_11" loc-id="17272_11" value="Cienkie włosie"/>
+  </category>
+
+  <category key="Str#" comment="Brushes - Palette Knives">
+    <string key="17273_2" loc-id="17273_2" value="Kryjąca szpachelka"/>
+  </category>
+
+  <category key="Str#" comment="Brushes - Pencils">
+    <string key="17275_4" loc-id="17275_4" value="Miękki 2B"/>
+    <string key="17275_6" loc-id="17275_6" value="Miękki 6B"/>
+    <string key="17275_10" loc-id="17275_10" value="Miękki, ziarnisty"/>
+    <string key="17275_11" loc-id="17275_11" value="Twardy, ziarnisty"/>
+  </category>
+
+  <category key="Str#" comment="Brushes - Sargent">
+    <string key="17281_1" loc-id="17281_1" value="Pędzel Sargent"/>
+    <string key="17281_4" loc-id="17281_4" value="Dzikie, smużenie"/>
+    <string key="17281_5" loc-id="17281_5" value="Zakręcony"/>
+    <string key="17281_7" loc-id="17281_7" value="Masywny, ziarnisty"/>
+    <string key="17281_9" loc-id="17281_9" value="Lekka tekstura"/>
+    <string key="17281_11" loc-id="17281_11" value="Ziarnisty, smużenie"/>
+    <string key="17281_12" loc-id="17281_12" value="Szpachelka"/>
+    <string key="17281_15" loc-id="17281_15" value="Płynny szkicownik"/>
+  </category>
+
+  <category key="Str#" comment="Brushes - Sponges">
+    <string key="17284_1" loc-id="17284_1" value="Miękkie"/>
+    <string key="17284_2" loc-id="17284_2" value="Ziarnisty"/>
+    <string key="17284_3" loc-id="17284_3" value="Duże olejne"/>
+    <string key="17284_4" loc-id="17284_4" value="Smużenie"/>
+    <string key="17284_6" loc-id="17284_6" value="Satynowanie"/>
+    <string key="17284_7" loc-id="17284_7" value="Krycie, mokre"/>
+    <string key="17284_8" loc-id="17284_8" value="Gąbka"/>
+  </category>
+
+  <category key="Str#" comment="Brushes - Sumi-e">
+    <string key="17285_3" loc-id="17285_3" value="Gruby pędzel kwiecisty"/>
+    <string key="17285_7" loc-id="17285_7" value="Zwężony pędzel"/>
+    <string key="17285_13" loc-id="17285_13" value="Cienki pędzel do szczegółów"/>
+    <string key="17285_14" loc-id="17285_14" value="Mokry, ziarnisty pędzel"/>
+  </category>
+
+  <category key="Str#" comment="Brushes - Thick Particles">
+    <string key="17292_3" loc-id="17292_3" value="Rozprysk"/>
+    <string key="17292_5" loc-id="17292_5" value="Miękkie włosie"/>
+    <string key="17292_9" loc-id="17292_9" value="Włochaty wybuch"/>
+    <string key="17292_11" loc-id="17292_11" value="Pleciony łańcuch"/>
+  </category>
+
+  <category key="Str#" comment="Brushes - Thin Particles">
+    <string key="17293_1" loc-id="17293_1" value="Włochaty rozpylacz"/>
+    <string key="17293_2" loc-id="17293_2" value="Włochaty ogon"/>
+    <string key="17293_3" loc-id="17293_3" value="Włochaty"/>
+    <string key="17293_5" loc-id="17293_5" value="Odbłysk"/>
+    <string key="17293_7" loc-id="17293_7" value="Ziarnisty"/>
+    <string key="17293_8" loc-id="17293_8" value="Jedwabna tęcza"/>
+    <string key="17293_9" loc-id="17293_9" value="Jedwabny kwiat"/>
+    <string key="17293_10" loc-id="17293_10" value="Dymiący łańcuch"/>
+    <string key="17293_11" loc-id="17293_11" value="Gruby"/>
+    <string key="17293_12" loc-id="17293_12" value="Istota koncepcyjna"/>
+    <string key="17293_13" loc-id="17293_13" value="Dymiące jądro"/>
+    <string key="17293_14" loc-id="17293_14" value="Jedwabna wstążka"/>
+  </category>
+
+  <category key="Str#" comment="Brushes - Charcoal">
+    <string key="17297_3" loc-id="17297_3" value="Luźny"/>
+    <string key="17297_4" loc-id="17297_4" value="Smużenie"/>
+    <string key="17297_5" loc-id="17297_5" value="Miękkie"/>
+    <string key="17297_7" loc-id="17297_7" value="Tępy ołówek"/>
+    <string key="17297_8" loc-id="17297_8" value="Lekki ołówek"/>
+  </category>
+
+  <category key="Str#" comment="Brushes - Markers">
+    <string key="17299_2" loc-id="17299_2" value="Końcówka dłuta"/>
+    <string key="17299_3" loc-id="17299_3" value="Filc"/>
+    <string key="17299_4" loc-id="17299_4" value="Zużyty"/>
+    <string key="17299_6" loc-id="17299_6" value="Sucha końcówka"/>
+    <string key="17299_7" loc-id="17299_7" value="Brudny"/>
+    <string key="17299_9" loc-id="17299_9" value="Drobna końcówka"/>
+  </category>
+
+  <category key="Str#" comment="Brushes - Pastels">
+    <string key="17300_2" loc-id="17300_2" value="Pastele do szkicowania"/>
+    <string key="17300_3" loc-id="17300_3" value="Twarde, prostokątne pastele"/>
+    <string key="17300_4" loc-id="17300_4" value="Zużyte, kwadratowe pastele"/>
+    <string key="17300_5" loc-id="17300_5" value="Suche, szorstkie pastele"/>
+    <string key="17300_6" loc-id="17300_6" value="Luźne, prostokątne pastele"/>
+    <string key="17300_7" loc-id="17300_7" value="Miękkie, trójkątne pastele"/>
+    <string key="17300_12" loc-id="17300_12" value="Olejowe, grube pastele"/>
+  </category>
+
+  <category key="Str#" comment="Brushes - Fluid - Build and Sculpt">
+    <string key="17304_10" loc-id="17304_10" value="Konstruktor kształtów"/>
+    <string key="17304_13" loc-id="17304_13" value="Drobny"/>
+  </category>
+
+  <category key="Str#" comment="Brushes - Fluid - Paint and Blend">
+    <string key="17305_2" loc-id="17305_2" value="Krzaczasty"/>
+    <string key="17305_9" loc-id="17305_9" value="Gładka gąbka"/>
+    <string key="17305_12" loc-id="17305_12" value="Szum"/>
+    <string key="17305_13" loc-id="17305_13" value="Grube włosie"/>
+  </category>
+
+  <category key="Str#" comment="Brushes - Watercolor">
+    <string key="17306_1" loc-id="17306_1" value="Włosie"/>
+    <string key="17306_2" loc-id="17306_2" value="Suchy, krzaczasty"/>
+    <string key="17306_3" loc-id="17306_3" value="Leszczyna"/>
+    <string key="17306_4" loc-id="17306_4" value="Duże tonowanie"/>
+    <string key="17306_5" loc-id="17306_5" value="Niebo"/>
+    <string key="17306_6" loc-id="17306_6" value="Rozprysk"/>
+    <string key="17306_7" loc-id="17306_7" value="Gąbka"/>
+  </category>
+
+  <category key="CorelDRAW - Brush Categories">
+    <string key="aa.Recommended" value="Rekomendowane pędzel"/>
+    <string key="Acrylics" value="Akrylowe"/>
+    <string key="Airbrushes" value="Aerografy"/>
+    <string key="Charcoal" value="Węgiel"/>
+    <string key="Digital Effects" value="Efekty cyfrowe"/>
+    <string key="Fluid" value="Płyn"/>
+    <string key="Glazing" value="Satynowanie"/>
+    <string key="Gouache" value="Gwasz"/>
+    <string key="Inks" value="Atramenty"/>
+    <string key="Markers" value="Markery"/>
+    <string key="Oils" value="Farby olejne"/>
+    <string key="Particles" value="Cząsteczki"/>
+    <string key="Pastels and Chalks" value="Pastele i kredy"/>
+    <string key="Pencils" value="Ołówki"/>
+    <string key="Sponges" value="Gąbki"/>
+    <string key="Watercolor" value="Akwarela"/>
+  </category>
+
+</string-table>

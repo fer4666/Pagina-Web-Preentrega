@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="Strings.xsl"?>
+<string-table>
+  <category key="Str#" comment="Brushes - Acrylics">
+    <string key="17248_1" loc-id="17248_1" value="Verven en overvloeien"/>
+    <string key="17248_2" loc-id="17248_2" value="Dekkend penseel"/>
+    <string key="17248_3" loc-id="17248_3" value="Droog plat"/>
+    <string key="17248_5" loc-id="17248_5" value="Nat detail"/>
+    <string key="17248_6" loc-id="17248_6" value="Dekkend detail"/>
+    <string key="17248_7" loc-id="17248_7" value="Lang plat"/>
+    <string key="17248_9" loc-id="17248_9" value="Gel verwassen"/>
+    <string key="17248_10" loc-id="17248_10" value="Nat zacht"/>
+    <string key="17248_12" loc-id="17248_12" value="Nat dik"/>
+  </category>
+
+  <category key="Str#" comment="Brushes - Airbrushes">
+    <string key="17249_3" loc-id="17249_3" value="Zacht"/>
+    <string key="17249_9" loc-id="17249_9" value="Pixelspray"/>
+    <string key="17249_10" loc-id="17249_10" value="Grove spuit"/>
+    <string key="17249_12" loc-id="17249_12" value="Strooien"/>
+    <string key="17249_14" loc-id="17249_14" value="Wild"/>
+  </category>
+
+  <category key="Str#" comment="Brushes - Artists' Oils">
+    <string key="17250_1" loc-id="17250_1" value="Smeerachtig penseel"/>
+    <string key="17250_2" loc-id="17250_2" value="Ventilator"/>
+    <string key="17250_3" loc-id="17250_3" value="Plat"/>
+    <string key="17250_4" loc-id="17250_4" value="Plat toelopend"/>
+    <string key="17250_5" loc-id="17250_5" value="Kort"/>
+    <string key="17250_6" loc-id="17250_6" value="Hazelnoot"/>
+    <string key="17250_7" loc-id="17250_7" value="Breed klonterig"/>
+  </category>
+
+  <category key="Str#" comment="Brushes - Brave Oils">
+    <string key="17253_7" loc-id="17253_7" value="Boterachtig"/>
+    <string key="17253_8" loc-id="17253_8" value="Stippelstructuur"/>
+    <string key="17253_9" loc-id="17253_9" value="Rommelig"/>
+  </category>
+
+  <category key="Str#" comment="Brushes - Buildup Ink">
+    <string key="17254_2" loc-id="17254_2" value="Breed effen"/>
+    <string key="17254_3" loc-id="17254_3" value="Kruisdruk"/>
+    <string key="17254_5" loc-id="17254_5" value="Croquil"/>
+    <string key="17254_8" loc-id="17254_8" value="Dik en dun"/>
+    <string key="17254_9" loc-id="17254_9" value="Coit"/>
+    <string key="17254_10" loc-id="17254_10" value="Gekarteld"/>
+    <string key="17254_11" loc-id="17254_11" value="Druipend"/>
+    <string key="17254_12" loc-id="17254_12" value="Lekkende pen"/>
+  </category>
+
+  <category key="Str#" comment="Brushes - Chalk">
+    <string key="17256_1" loc-id="17256_1" value="Gewoon krijt"/>
+    <string key="17256_2" loc-id="17256_2" value="Dik krijt"/>
+    <string key="17256_3" loc-id="17256_3" value="Schetskrijt"/>
+    <string key="17256_6" loc-id="17256_6" value="Scherp krijt"/>
+    <string key="17256_7" loc-id="17256_7" value="Vierkant krijt"/>
+  </category>
+
+  <category key="Str#" comment="Brushes - Conte">
+    <string key="17257_5" loc-id="17257_5" value="Bot contépotlood"/>
+  </category>
+
+  <category key="Str#" comment="Brushes - F-X">
+    <string key="17260_1" loc-id="17260_1" value="Gloed"/>
+    <string key="17260_2" loc-id="17260_2" value="Gevlekte gloed"/>
+    <string key="17260_4" loc-id="17260_4" value="Wolk"/>
+    <string key="17260_7" loc-id="17260_7" value="Kleine bliksem"/>
+    <string key="17260_14" loc-id="17260_14" value="Magisch stof"/>
+  </category>
+
+  <category key="Str#" comment="Brushes - Glazing">
+    <string key="17262_1" loc-id="17262_1" value="Ruw"/>
+    <string key="17262_3" loc-id="17262_3" value="Zacht"/>
+    <string key="17262_4" loc-id="17262_4" value="Hard"/>
+    <string key="17262_10" loc-id="17262_10" value="Grof penseel"/>
+    <string key="17262_13" loc-id="17262_13" value="Rustiek"/>
+  </category>
+
+  <category key="Str#" comment="Brushes - Glow Particles">
+    <string key="17263_1" loc-id="17263_1" value="Gebroken naden"/>
+    <string key="17263_2" loc-id="17263_2" value="Glinster"/>
+  </category>
+
+  <category key="Str#" comment="Brushes - Gouache">
+    <string key="17264_1" loc-id="17264_1" value="Zacht"/>
+    <string key="17264_4" loc-id="17264_4" value="Plat"/>
+    <string key="17264_5" loc-id="17264_5" value="Dun penseel"/>
+    <string key="17264_6" loc-id="17264_6" value="Dik zacht"/>
+    <string key="17264_9" loc-id="17264_9" value="Detail dekkend"/>
+    <string key="17264_12" loc-id="17264_12" value="Helling"/>
+  </category>
+
+  <category key="Str#" comment="Brushes - Oils">
+    <string key="17272_1" loc-id="17272_1" value="Impressionist"/>
+    <string key="17272_5" loc-id="17272_5" value="Zacht"/>
+    <string key="17272_6" loc-id="17272_6" value="Gemiddeld penseel"/>
+    <string key="17272_10" loc-id="17272_10" value="Hard penseel"/>
+    <string key="17272_11" loc-id="17272_11" value="Dun penseel"/>
+  </category>
+
+  <category key="Str#" comment="Brushes - Palette Knives">
+    <string key="17273_2" loc-id="17273_2" value="Geladen paletmes"/>
+  </category>
+
+  <category key="Str#" comment="Brushes - Pencils">
+    <string key="17275_4" loc-id="17275_4" value="Zacht 2B"/>
+    <string key="17275_6" loc-id="17275_6" value="Zacht 6B"/>
+    <string key="17275_10" loc-id="17275_10" value="Zacht korrelig"/>
+    <string key="17275_11" loc-id="17275_11" value="Hard korrelig"/>
+  </category>
+
+  <category key="Str#" comment="Brushes - Sargent">
+    <string key="17281_1" loc-id="17281_1" value="Sargent"/>
+    <string key="17281_4" loc-id="17281_4" value="Wild smeerachtig"/>
+    <string key="17281_5" loc-id="17281_5" value="Grillig"/>
+    <string key="17281_7" loc-id="17281_7" value="Klonterig korrelig"/>
+    <string key="17281_9" loc-id="17281_9" value="Lichte structuur"/>
+    <string key="17281_11" loc-id="17281_11" value="Korrelig smeerachtig"/>
+    <string key="17281_12" loc-id="17281_12" value="Paletmes"/>
+    <string key="17281_15" loc-id="17281_15" value="Vloeistofschetser"/>
+  </category>
+
+  <category key="Str#" comment="Brushes - Sponges">
+    <string key="17284_1" loc-id="17284_1" value="Zacht"/>
+    <string key="17284_2" loc-id="17284_2" value="Korrelig"/>
+    <string key="17284_3" loc-id="17284_3" value="Groot olieachtig"/>
+    <string key="17284_4" loc-id="17284_4" value="Smeerachtig"/>
+    <string key="17284_6" loc-id="17284_6" value="Glazuur"/>
+    <string key="17284_7" loc-id="17284_7" value="Geladen nat"/>
+    <string key="17284_8" loc-id="17284_8" value="Zeespons"/>
+  </category>
+
+  <category key="Str#" comment="Brushes - Sumi-e">
+    <string key="17285_3" loc-id="17285_3" value="Dikke bloesemkwast"/>
+    <string key="17285_7" loc-id="17285_7" value="Toelopende kwast"/>
+    <string key="17285_13" loc-id="17285_13" value="Dun detail kwast"/>
+    <string key="17285_14" loc-id="17285_14" value="Natte korrelige kwast"/>
+  </category>
+
+  <category key="Str#" comment="Brushes - Thick Particles">
+    <string key="17292_3" loc-id="17292_3" value="Spetteren"/>
+    <string key="17292_5" loc-id="17292_5" value="Zacht penseel"/>
+    <string key="17292_9" loc-id="17292_9" value="Pluizige uitbarsting"/>
+    <string key="17292_11" loc-id="17292_11" value="Webbige keten"/>
+  </category>
+
+  <category key="Str#" comment="Brushes - Thin Particles">
+    <string key="17293_1" loc-id="17293_1" value="Pluizige sproeier"/>
+    <string key="17293_2" loc-id="17293_2" value="Pluizige staart"/>
+    <string key="17293_3" loc-id="17293_3" value="Pluizig"/>
+    <string key="17293_5" loc-id="17293_5" value="Flits"/>
+    <string key="17293_7" loc-id="17293_7" value="Korrelig"/>
+    <string key="17293_8" loc-id="17293_8" value="Zijden regenboog"/>
+    <string key="17293_9" loc-id="17293_9" value="Zijden bloem"/>
+    <string key="17293_10" loc-id="17293_10" value="Rokerige keten"/>
+    <string key="17293_11" loc-id="17293_11" value="Brokkelig"/>
+    <string key="17293_12" loc-id="17293_12" value="Concept wezen"/>
+    <string key="17293_13" loc-id="17293_13" value="Rokerige kern"/>
+    <string key="17293_14" loc-id="17293_14" value="Zijden lint"/>
+  </category>
+
+  <category key="Str#" comment="Brushes - Charcoal">
+    <string key="17297_3" loc-id="17297_3" value="Los"/>
+    <string key="17297_4" loc-id="17297_4" value="Smeerachtig"/>
+    <string key="17297_5" loc-id="17297_5" value="Zacht"/>
+    <string key="17297_7" loc-id="17297_7" value="Bot potlood"/>
+    <string key="17297_8" loc-id="17297_8" value="Licht potlood"/>
+  </category>
+
+  <category key="Str#" comment="Brushes - Markers">
+    <string key="17299_2" loc-id="17299_2" value="Beitelpunt"/>
+    <string key="17299_3" loc-id="17299_3" value="Vilt"/>
+    <string key="17299_4" loc-id="17299_4" value="Versleten"/>
+    <string key="17299_6" loc-id="17299_6" value="Droge punt"/>
+    <string key="17299_7" loc-id="17299_7" value="Vies"/>
+    <string key="17299_9" loc-id="17299_9" value="Fijne punt"/>
+  </category>
+
+  <category key="Str#" comment="Brushes - Pastels">
+    <string key="17300_2" loc-id="17300_2" value="Schetspastel"/>
+    <string key="17300_3" loc-id="17300_3" value="Harde rechthoekige pastel"/>
+    <string key="17300_4" loc-id="17300_4" value="Versleten vierkante pastel"/>
+    <string key="17300_5" loc-id="17300_5" value="Droog krassend pastel"/>
+    <string key="17300_6" loc-id="17300_6" value="Los rechthoekig pastel"/>
+    <string key="17300_7" loc-id="17300_7" value="Zacht driehoekig pastel"/>
+    <string key="17300_12" loc-id="17300_12" value="Olieachtig klonterig pastel"/>
+  </category>
+
+  <category key="Str#" comment="Brushes - Fluid - Build and Sculpt">
+    <string key="17304_10" loc-id="17304_10" value="Vormbouwer"/>
+    <string key="17304_13" loc-id="17304_13" value="Slierterig"/>
+  </category>
+
+  <category key="Str#" comment="Brushes - Fluid - Paint and Blend">
+    <string key="17305_2" loc-id="17305_2" value="Borstelig"/>
+    <string key="17305_9" loc-id="17305_9" value="Effen spons"/>
+    <string key="17305_12" loc-id="17305_12" value="Wervelen"/>
+    <string key="17305_13" loc-id="17305_13" value="Dikke kwast"/>
+  </category>
+
+  <category key="Str#" comment="Brushes - Watercolor">
+    <string key="17306_1" loc-id="17306_1" value="Penseel"/>
+    <string key="17306_2" loc-id="17306_2" value="Droog borstelig"/>
+    <string key="17306_3" loc-id="17306_3" value="Hazelnoot"/>
+    <string key="17306_4" loc-id="17306_4" value="Grote krabbel"/>
+    <string key="17306_5" loc-id="17306_5" value="Lucht"/>
+    <string key="17306_6" loc-id="17306_6" value="Spetter"/>
+    <string key="17306_7" loc-id="17306_7" value="Spons"/>
+  </category>
+
+  <category key="CorelDRAW - Brush Categories">
+    <string key="aa.Recommended" value="Aanbevolen borstels"/>
+    <string key="Acrylics" value="Acryl"/>
+    <string key="Airbrushes" value="Airbrushes"/>
+    <string key="Charcoal" value="Houtskool"/>
+    <string key="Digital Effects" value="Digitale effecten"/>
+    <string key="Fluid" value="Vloeiend"/>
+    <string key="Glazing" value="Glazuur"/>
+    <string key="Gouache" value="Plakkaatverf"/>
+    <string key="Inks" value="Inkt"/>
+    <string key="Markers" value="Markers"/>
+    <string key="Oils" value="Olieverf"/>
+    <string key="Particles" value="Deeltjes"/>
+    <string key="Pastels and Chalks" value="Pastels en krijt"/>
+    <string key="Pencils" value="Potloden"/>
+    <string key="Sponges" value="Sponzen"/>
+    <string key="Watercolor" value="Waterverf"/>
+  </category>
+
+</string-table>

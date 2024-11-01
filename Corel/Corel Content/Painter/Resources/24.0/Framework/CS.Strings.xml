@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="Strings.xsl"?>
+<string-table>
+  <category key="Str#" comment="Brushes - Acrylics">
+    <string key="17248_1" loc-id="17248_1" value="绘制和混合"/>
+    <string key="17248_2" loc-id="17248_2" value="不透明刷毛"/>
+    <string key="17248_3" loc-id="17248_3" value="干燥平坦"/>
+    <string key="17248_5" loc-id="17248_5" value="潮湿细节"/>
+    <string key="17248_6" loc-id="17248_6" value="不透明细节"/>
+    <string key="17248_7" loc-id="17248_7" value="长平坦"/>
+    <string key="17248_9" loc-id="17248_9" value="凝胶洗涤"/>
+    <string key="17248_10" loc-id="17248_10" value="潮湿柔软"/>
+    <string key="17248_12" loc-id="17248_12" value="潮湿厚"/>
+  </category>
+
+  <category key="Str#" comment="Brushes - Airbrushes">
+    <string key="17249_3" loc-id="17249_3" value="柔软"/>
+    <string key="17249_9" loc-id="17249_9" value="像素喷雾"/>
+    <string key="17249_10" loc-id="17249_10" value="粗喷"/>
+    <string key="17249_12" loc-id="17249_12" value="喷洒"/>
+    <string key="17249_14" loc-id="17249_14" value="野生"/>
+  </category>
+
+  <category key="Str#" comment="Brushes - Artists' Oils">
+    <string key="17250_1" loc-id="17250_1" value="涂抹刷毛"/>
+    <string key="17250_2" loc-id="17250_2" value="风扇"/>
+    <string key="17250_3" loc-id="17250_3" value="平坦"/>
+    <string key="17250_4" loc-id="17250_4" value="平坦锥形"/>
+    <string key="17250_5" loc-id="17250_5" value="短"/>
+    <string key="17250_6" loc-id="17250_6" value="榔头"/>
+    <string key="17250_7" loc-id="17250_7" value="宽厚簇"/>
+  </category>
+
+  <category key="Str#" comment="Brushes - Brave Oils">
+    <string key="17253_7" loc-id="17253_7" value="奶油状"/>
+    <string key="17253_8" loc-id="17253_8" value="纹理点画"/>
+    <string key="17253_9" loc-id="17253_9" value="凌乱"/>
+  </category>
+
+  <category key="Str#" comment="Brushes - Buildup Ink">
+    <string key="17254_2" loc-id="17254_2" value="宽平滑"/>
+    <string key="17254_3" loc-id="17254_3" value="交叉线"/>
+    <string key="17254_5" loc-id="17254_5" value="Croquil"/>
+    <string key="17254_8" loc-id="17254_8" value="粗细"/>
+    <string key="17254_9" loc-id="17254_9" value="Coit"/>
+    <string key="17254_10" loc-id="17254_10" value="锯齿"/>
+    <string key="17254_11" loc-id="17254_11" value="滴水"/>
+    <string key="17254_12" loc-id="17254_12" value="漏墨笔"/>
+  </category>
+
+  <category key="Str#" comment="Brushes - Chalk">
+    <string key="17256_1" loc-id="17256_1" value="基本粉笔"/>
+    <string key="17256_2" loc-id="17256_2" value="粗粉笔"/>
+    <string key="17256_3" loc-id="17256_3" value="素描粉笔"/>
+    <string key="17256_6" loc-id="17256_6" value="尖粉笔"/>
+    <string key="17256_7" loc-id="17256_7" value="方形粉笔"/>
+  </category>
+
+  <category key="Str#" comment="Brushes - Conte">
+    <string key="17257_5" loc-id="17257_5" value="Dull Conte"/>
+  </category>
+
+  <category key="Str#" comment="Brushes - F-X">
+    <string key="17260_1" loc-id="17260_1" value="光芒"/>
+    <string key="17260_2" loc-id="17260_2" value="斑驳的光芒"/>
+    <string key="17260_4" loc-id="17260_4" value="云"/>
+    <string key="17260_7" loc-id="17260_7" value="小闪电"/>
+    <string key="17260_14" loc-id="17260_14" value="仙尘"/>
+  </category>
+
+  <category key="Str#" comment="Brushes - Glazing">
+    <string key="17262_1" loc-id="17262_1" value="粗糙"/>
+    <string key="17262_3" loc-id="17262_3" value="柔软"/>
+    <string key="17262_4" loc-id="17262_4" value="硬"/>
+    <string key="17262_10" loc-id="17262_10" value="粗毛"/>
+    <string key="17262_13" loc-id="17262_13" value="乡村"/>
+  </category>
+
+  <category key="Str#" comment="Brushes - Glow Particles">
+    <string key="17263_1" loc-id="17263_1" value="破裂的缝线"/>
+    <string key="17263_2" loc-id="17263_2" value="火花"/>
+  </category>
+
+  <category key="Str#" comment="Brushes - Gouache">
+    <string key="17264_1" loc-id="17264_1" value="柔软"/>
+    <string key="17264_4" loc-id="17264_4" value="平坦"/>
+    <string key="17264_5" loc-id="17264_5" value="细毛"/>
+    <string key="17264_6" loc-id="17264_6" value="厚软"/>
+    <string key="17264_9" loc-id="17264_9" value="细节不透明"/>
+    <string key="17264_12" loc-id="17264_12" value="耙"/>
+  </category>
+
+  <category key="Str#" comment="Brushes - Oils">
+    <string key="17272_1" loc-id="17272_1" value="印象派"/>
+    <string key="17272_5" loc-id="17272_5" value="柔软"/>
+    <string key="17272_6" loc-id="17272_6" value="中毛"/>
+    <string key="17272_10" loc-id="17272_10" value="硬毛"/>
+    <string key="17272_11" loc-id="17272_11" value="细毛"/>
+  </category>
+
+  <category key="Str#" comment="Brushes - Palette Knives">
+    <string key="17273_2" loc-id="17273_2" value="装载的调色板刀"/>
+  </category>
+
+  <category key="Str#" comment="Brushes - Pencils">
+    <string key="17275_4" loc-id="17275_4" value="软2B"/>
+    <string key="17275_6" loc-id="17275_6" value="软6B"/>
+    <string key="17275_10" loc-id="17275_10" value="柔软颗粒"/>
+    <string key="17275_11" loc-id="17275_11" value="硬颗粒"/>
+  </category>
+
+  <category key="Str#" comment="Brushes - Sargent">
+    <string key="17281_1" loc-id="17281_1" value="萨金特"/>
+    <string key="17281_4" loc-id="17281_4" value="野性涂抹"/>
+    <string key="17281_5" loc-id="17281_5" value="古怪的"/>
+    <string key="17281_7" loc-id="17281_7" value="簇状颗粒"/>
+    <string key="17281_9" loc-id="17281_9" value="轻质纹理"/>
+    <string key="17281_11" loc-id="17281_11" value="颗粒涂抹"/>
+    <string key="17281_12" loc-id="17281_12" value="调色板刀"/>
+    <string key="17281_15" loc-id="17281_15" value="液体素描师"/>
+  </category>
+
+  <category key="Str#" comment="Brushes - Sponges">
+    <string key="17284_1" loc-id="17284_1" value="柔软"/>
+    <string key="17284_2" loc-id="17284_2" value="颗粒状"/>
+    <string key="17284_3" loc-id="17284_3" value="大油画"/>
+    <string key="17284_4" loc-id="17284_4" value="涂抹"/>
+    <string key="17284_6" loc-id="17284_6" value="上釉"/>
+    <string key="17284_7" loc-id="17284_7" value="装载潮湿"/>
+    <string key="17284_8" loc-id="17284_8" value="海绵"/>
+  </category>
+
+  <category key="Str#" comment="Brushes - Sumi-e">
+    <string key="17285_3" loc-id="17285_3" value="厚花刷"/>
+    <string key="17285_7" loc-id="17285_7" value="锥形刷"/>
+    <string key="17285_13" loc-id="17285_13" value="细节刷"/>
+    <string key="17285_14" loc-id="17285_14" value="潮湿颗粒刷"/>
+  </category>
+
+  <category key="Str#" comment="Brushes - Thick Particles">
+    <string key="17292_3" loc-id="17292_3" value="飞溅"/>
+    <string key="17292_5" loc-id="17292_5" value="软毛"/>
+    <string key="17292_9" loc-id="17292_9" value="爆炸状"/>
+    <string key="17292_11" loc-id="17292_11" value="网状链"/>
+  </category>
+
+  <category key="Str#" comment="Brushes - Thin Particles">
+    <string key="17293_1" loc-id="17293_1" value="喷雾状"/>
+    <string key="17293_2" loc-id="17293_2" value="尾巴毛茸茸状"/>
+    <string key="17293_3" loc-id="17293_3" value="毛茸茸状"/>
+    <string key="17293_5" loc-id="17293_5" value="耀斑"/>
+    <string key="17293_7" loc-id="17293_7" value="颗粒状"/>
+    <string key="17293_8" loc-id="17293_8" value="丝绸彩虹"/>
+    <string key="17293_9" loc-id="17293_9" value="丝绸花"/>
+    <string key="17293_10" loc-id="17293_10" value="烟熏链"/>
+    <string key="17293_11" loc-id="17293_11" value="粗壮"/>
+    <string key="17293_12" loc-id="17293_12" value="概念生物"/>
+    <string key="17293_13" loc-id="17293_13" value="烟雾核"/>
+    <string key="17293_14" loc-id="17293_14" value="丝带"/>
+  </category>
+
+  <category key="Str#" comment="Brushes - Charcoal">
+    <string key="17297_3" loc-id="17297_3" value="松散"/>
+    <string key="17297_4" loc-id="17297_4" value="涂抹"/>
+    <string key="17297_5" loc-id="17297_5" value="柔软"/>
+    <string key="17297_7" loc-id="17297_7" value="钝铅笔"/>
+    <string key="17297_8" loc-id="17297_8" value="亮铅笔"/>
+  </category>
+
+  <category key="Str#" comment="Brushes - Markers">
+    <string key="17299_2" loc-id="17299_2" value="平刃"/>
+    <string key="17299_3" loc-id="17299_3" value="毡"/>
+    <string key="17299_4" loc-id="17299_4" value="磨损"/>
+    <string key="17299_6" loc-id="17299_6" value="干尖"/>
+    <string key="17299_7" loc-id="17299_7" value="脏"/>
+    <string key="17299_9" loc-id="17299_9" value="细尖"/>
+  </category>
+
+  <category key="Str#" comment="Brushes - Pastels">
+    <string key="17300_2" loc-id="17300_2" value="粗糙粉笔"/>
+    <string key="17300_3" loc-id="17300_3" value="硬矩形粉笔"/>
+    <string key="17300_4" loc-id="17300_4" value="磨损的方形粉笔"/>
+    <string key="17300_5" loc-id="17300_5" value="干燥的刺耳粉笔"/>
+    <string key="17300_6" loc-id="17300_6" value="松散的矩形粉笔"/>
+    <string key="17300_7" loc-id="17300_7" value="软三角形粉笔"/>
+    <string key="17300_12" loc-id="17300_12" value="油腻的粗糙粉笔"/>
+  </category>
+
+  <category key="Str#" comment="Brushes - Fluid - Build and Sculpt">
+    <string key="17304_10" loc-id="17304_10" value="形状生成器"/>
+    <string key="17304_13" loc-id="17304_13" value="飘逸"/>
+  </category>
+
+  <category key="Str#" comment="Brushes - Fluid - Paint and Blend">
+    <string key="17305_2" loc-id="17305_2" value="多毛的"/>
+    <string key="17305_9" loc-id="17305_9" value="光滑的海绵"/>
+    <string key="17305_12" loc-id="17305_12" value="嗖的"/>
+    <string key="17305_13" loc-id="17305_13" value="厚毛"/>
+  </category>
+
+  <category key="Str#" comment="Brushes - Watercolor">
+    <string key="17306_1" loc-id="17306_1" value="毛刷"/>
+    <string key="17306_2" loc-id="17306_2" value="干燥毛刷"/>
+    <string key="17306_3" loc-id="17306_3" value="榔头"/>
+    <string key="17306_4" loc-id="17306_4" value="大范围涂抹"/>
+    <string key="17306_5" loc-id="17306_5" value="天空"/>
+    <string key="17306_6" loc-id="17306_6" value="飞溅"/>
+    <string key="17306_7" loc-id="17306_7" value="海绵"/>
+  </category>
+
+  <category key="CorelDRAW - Brush Categories">
+    <string key="aa.Recommended" value="推荐笔刷"/>
+    <string key="Acrylics" value="丙烯"/>
+    <string key="Airbrushes" value="喷漆"/>
+    <string key="Charcoal" value="炭笔"/>
+    <string key="Digital Effects" value="数字特效"/>
+    <string key="Fluid" value="流体"/>
+    <string key="Glazing" value="上釉"/>
+    <string key="Gouache" value="水粉"/>
+    <string key="Inks" value="墨水"/>
+    <string key="Markers" value="记号"/>
+    <string key="Oils" value="油画"/>
+    <string key="Particles" value="颗粒"/>
+    <string key="Pastels and Chalks" value="蜡笔和粉笔"/>
+    <string key="Pencils" value="铅笔"/>
+    <string key="Sponges" value="海绵"/>
+    <string key="Watercolor" value="水彩"/>
+  </category>
+
+</string-table>

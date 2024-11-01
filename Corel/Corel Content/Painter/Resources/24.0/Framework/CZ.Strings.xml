@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="Strings.xsl"?>
+<string-table>
+  <category key="Str#" comment="Brushes - Acrylics">
+    <string key="17248_1" loc-id="17248_1" value="Malování a přechod"/>
+    <string key="17248_2" loc-id="17248_2" value="Neprůhledné štětiny"/>
+    <string key="17248_3" loc-id="17248_3" value="Suchý plochý"/>
+    <string key="17248_5" loc-id="17248_5" value="Mokrý detail"/>
+    <string key="17248_6" loc-id="17248_6" value="Neprůhledný detail"/>
+    <string key="17248_7" loc-id="17248_7" value="Dlouhý plochý"/>
+    <string key="17248_9" loc-id="17248_9" value="Gelové mytí"/>
+    <string key="17248_10" loc-id="17248_10" value="Mokrý měkký"/>
+    <string key="17248_12" loc-id="17248_12" value="Mokrý tlustý"/>
+  </category>
+
+  <category key="Str#" comment="Brushes - Airbrushes">
+    <string key="17249_3" loc-id="17249_3" value="Měkký"/>
+    <string key="17249_9" loc-id="17249_9" value="Pixelový sprej"/>
+    <string key="17249_10" loc-id="17249_10" value="Hrubý sprej"/>
+    <string key="17249_12" loc-id="17249_12" value="Posyp"/>
+    <string key="17249_14" loc-id="17249_14" value="Divoký"/>
+  </category>
+
+  <category key="Str#" comment="Brushes - Artists' Oils">
+    <string key="17250_1" loc-id="17250_1" value="Mazlavé štětiny"/>
+    <string key="17250_2" loc-id="17250_2" value="Ventilátor"/>
+    <string key="17250_3" loc-id="17250_3" value="Plochý"/>
+    <string key="17250_4" loc-id="17250_4" value="Plochý zúžený"/>
+    <string key="17250_5" loc-id="17250_5" value="Krátký"/>
+    <string key="17250_6" loc-id="17250_6" value="Filbert"/>
+    <string key="17250_7" loc-id="17250_7" value="Široký chomáčový"/>
+  </category>
+
+  <category key="Str#" comment="Brushes - Brave Oils">
+    <string key="17253_7" loc-id="17253_7" value="Máslový"/>
+    <string key="17253_8" loc-id="17253_8" value="Texturovaný vzorek"/>
+    <string key="17253_9" loc-id="17253_9" value="Chaotický"/>
+  </category>
+
+  <category key="Str#" comment="Brushes - Buildup Ink">
+    <string key="17254_2" loc-id="17254_2" value="Široký hladký"/>
+    <string key="17254_3" loc-id="17254_3" value="Křížový vzor"/>
+    <string key="17254_5" loc-id="17254_5" value="Croquil"/>
+    <string key="17254_8" loc-id="17254_8" value="Tlustý a tenký"/>
+    <string key="17254_9" loc-id="17254_9" value="Coit"/>
+    <string key="17254_10" loc-id="17254_10" value="Zubatý"/>
+    <string key="17254_11" loc-id="17254_11" value="Kapající"/>
+    <string key="17254_12" loc-id="17254_12" value="Netěsnící pero"/>
+  </category>
+
+  <category key="Str#" comment="Brushes - Chalk">
+    <string key="17256_1" loc-id="17256_1" value="Základní křída"/>
+    <string key="17256_2" loc-id="17256_2" value="Tlustá křída"/>
+    <string key="17256_3" loc-id="17256_3" value="Skicovací křída"/>
+    <string key="17256_6" loc-id="17256_6" value="Ostrá křída"/>
+    <string key="17256_7" loc-id="17256_7" value="Čtvercová křída"/>
+  </category>
+
+  <category key="Str#" comment="Brushes - Conte">
+    <string key="17257_5" loc-id="17257_5" value="Tupý Conte"/>
+  </category>
+
+  <category key="Str#" comment="Brushes - F-X">
+    <string key="17260_1" loc-id="17260_1" value="Záře"/>
+    <string key="17260_2" loc-id="17260_2" value="Jasná záře"/>
+    <string key="17260_4" loc-id="17260_4" value="Mrak"/>
+    <string key="17260_7" loc-id="17260_7" value="Malé světlo"/>
+    <string key="17260_14" loc-id="17260_14" value="Vílí prach"/>
+  </category>
+
+  <category key="Str#" comment="Brushes - Glazing">
+    <string key="17262_1" loc-id="17262_1" value="Hrubý"/>
+    <string key="17262_3" loc-id="17262_3" value="Měkký"/>
+    <string key="17262_4" loc-id="17262_4" value="Tvrdý"/>
+    <string key="17262_10" loc-id="17262_10" value="Hrubé štětiny"/>
+    <string key="17262_13" loc-id="17262_13" value="Rustikální"/>
+  </category>
+
+  <category key="Str#" comment="Brushes - Glow Particles">
+    <string key="17263_1" loc-id="17263_1" value="Prasklé švy"/>
+    <string key="17263_2" loc-id="17263_2" value="Prskavka"/>
+  </category>
+
+  <category key="Str#" comment="Brushes - Gouache">
+    <string key="17264_1" loc-id="17264_1" value="Měkký"/>
+    <string key="17264_4" loc-id="17264_4" value="Plochý"/>
+    <string key="17264_5" loc-id="17264_5" value="Tenké štětiny"/>
+    <string key="17264_6" loc-id="17264_6" value="Tlustý měkký"/>
+    <string key="17264_9" loc-id="17264_9" value="Detailní neprůhledný"/>
+    <string key="17264_12" loc-id="17264_12" value="Hrábě"/>
+  </category>
+
+  <category key="Str#" comment="Brushes - Oils">
+    <string key="17272_1" loc-id="17272_1" value="Impresionistický"/>
+    <string key="17272_5" loc-id="17272_5" value="Měkký"/>
+    <string key="17272_6" loc-id="17272_6" value="Střední štětiny"/>
+    <string key="17272_10" loc-id="17272_10" value="Tvrdé štětiny"/>
+    <string key="17272_11" loc-id="17272_11" value="Tenké štětiny"/>
+  </category>
+
+  <category key="Str#" comment="Brushes - Palette Knives">
+    <string key="17273_2" loc-id="17273_2" value="Nůž naložený na paletě"/>
+  </category>
+
+  <category key="Str#" comment="Brushes - Pencils">
+    <string key="17275_4" loc-id="17275_4" value="Měkký 2B"/>
+    <string key="17275_6" loc-id="17275_6" value="Měkký 6B"/>
+    <string key="17275_10" loc-id="17275_10" value="Měkký zrnitý"/>
+    <string key="17275_11" loc-id="17275_11" value="Tvrdý zrnitý"/>
+  </category>
+
+  <category key="Str#" comment="Brushes - Sargent">
+    <string key="17281_1" loc-id="17281_1" value="Seržant"/>
+    <string key="17281_4" loc-id="17281_4" value="Divoké mazání"/>
+    <string key="17281_5" loc-id="17281_5" value="Nepředvídatelný"/>
+    <string key="17281_7" loc-id="17281_7" value="Hrudkovitý zrnitý"/>
+    <string key="17281_9" loc-id="17281_9" value="Lehká textura"/>
+    <string key="17281_11" loc-id="17281_11" value="Zrnité mazání"/>
+    <string key="17281_12" loc-id="17281_12" value="Nůž na paletě"/>
+    <string key="17281_15" loc-id="17281_15" value="Tekutý skicák"/>
+  </category>
+
+  <category key="Str#" comment="Brushes - Sponges">
+    <string key="17284_1" loc-id="17284_1" value="Měkký"/>
+    <string key="17284_2" loc-id="17284_2" value="Zrnitý"/>
+    <string key="17284_3" loc-id="17284_3" value="Velký olejový"/>
+    <string key="17284_4" loc-id="17284_4" value="Mazání"/>
+    <string key="17284_6" loc-id="17284_6" value="Glazování"/>
+    <string key="17284_7" loc-id="17284_7" value="Naložený mokrý"/>
+    <string key="17284_8" loc-id="17284_8" value="Mořská houba"/>
+  </category>
+
+  <category key="Str#" comment="Brushes - Sumi-e">
+    <string key="17285_3" loc-id="17285_3" value="Hustý květinový štětec"/>
+    <string key="17285_7" loc-id="17285_7" value="Zúžený štětec"/>
+    <string key="17285_13" loc-id="17285_13" value="Tenký detailní štětec"/>
+    <string key="17285_14" loc-id="17285_14" value="Mokrý zrnitý štětec"/>
+  </category>
+
+  <category key="Str#" comment="Brushes - Thick Particles">
+    <string key="17292_3" loc-id="17292_3" value="Stříkance"/>
+    <string key="17292_5" loc-id="17292_5" value="Měkké štětiny"/>
+    <string key="17292_9" loc-id="17292_9" value="Chlupatý výbuch"/>
+    <string key="17292_11" loc-id="17292_11" value="Pavučinový řetěz"/>
+  </category>
+
+  <category key="Str#" comment="Brushes - Thin Particles">
+    <string key="17293_1" loc-id="17293_1" value="Chlupatý postřikovač"/>
+    <string key="17293_2" loc-id="17293_2" value="Chlupatý ocas"/>
+    <string key="17293_3" loc-id="17293_3" value="Chlupatý"/>
+    <string key="17293_5" loc-id="17293_5" value="Světlice"/>
+    <string key="17293_7" loc-id="17293_7" value="Zrnitý"/>
+    <string key="17293_8" loc-id="17293_8" value="Hedvábná duha"/>
+    <string key="17293_9" loc-id="17293_9" value="Hedvábná květina"/>
+    <string key="17293_10" loc-id="17293_10" value="Kouřový řetěz"/>
+    <string key="17293_11" loc-id="17293_11" value="Robustní"/>
+    <string key="17293_12" loc-id="17293_12" value="Koncepční tvor"/>
+    <string key="17293_13" loc-id="17293_13" value="Kouřové jádro"/>
+    <string key="17293_14" loc-id="17293_14" value="Hedvábná stuha"/>
+  </category>
+
+  <category key="Str#" comment="Brushes - Charcoal">
+    <string key="17297_3" loc-id="17297_3" value="Volný"/>
+    <string key="17297_4" loc-id="17297_4" value="Mazání"/>
+    <string key="17297_5" loc-id="17297_5" value="Měkký"/>
+    <string key="17297_7" loc-id="17297_7" value="Tupá tužka"/>
+    <string key="17297_8" loc-id="17297_8" value="Lehká tužka"/>
+  </category>
+
+  <category key="Str#" comment="Brushes - Markers">
+    <string key="17299_2" loc-id="17299_2" value="Hrot dláta"/>
+    <string key="17299_3" loc-id="17299_3" value="Filc"/>
+    <string key="17299_4" loc-id="17299_4" value="Opotřebovaný"/>
+    <string key="17299_6" loc-id="17299_6" value="Mokrý hrot"/>
+    <string key="17299_7" loc-id="17299_7" value="Špinavý"/>
+    <string key="17299_9" loc-id="17299_9" value="Jemný hrot"/>
+  </category>
+
+  <category key="Str#" comment="Brushes - Pastels">
+    <string key="17300_2" loc-id="17300_2" value="Náčrtkový pastel"/>
+    <string key="17300_3" loc-id="17300_3" value="Tvrdý čtvercový pastel"/>
+    <string key="17300_4" loc-id="17300_4" value="Opotřebovaný čtvercový pastel"/>
+    <string key="17300_5" loc-id="17300_5" value="Suchá čtvercový pastel"/>
+    <string key="17300_6" loc-id="17300_6" value="Volný čtvercový pastel"/>
+    <string key="17300_7" loc-id="17300_7" value="Měkký trojúhelníkový pastel"/>
+    <string key="17300_12" loc-id="17300_12" value="Olejový robustní pastel"/>
+  </category>
+
+  <category key="Str#" comment="Brushes - Fluid - Build and Sculpt">
+    <string key="17304_10" loc-id="17304_10" value="Nástroj na tvorbu tvarů"/>
+    <string key="17304_13" loc-id="17304_13" value="Chmýří"/>
+  </category>
+
+  <category key="Str#" comment="Brushes - Fluid - Paint and Blend">
+    <string key="17305_2" loc-id="17305_2" value="Kartáčovitý"/>
+    <string key="17305_9" loc-id="17305_9" value="Hladká houba"/>
+    <string key="17305_12" loc-id="17305_12" value="Svištivý"/>
+    <string key="17305_13" loc-id="17305_13" value="Tlusté štětiny"/>
+  </category>
+
+  <category key="Str#" comment="Brushes - Watercolor">
+    <string key="17306_1" loc-id="17306_1" value="Štětiny"/>
+    <string key="17306_2" loc-id="17306_2" value="Suchý kartáčovitý"/>
+    <string key="17306_3" loc-id="17306_3" value="Filbert"/>
+    <string key="17306_4" loc-id="17306_4" value="Velké rozmazání"/>
+    <string key="17306_5" loc-id="17306_5" value="Obloha"/>
+    <string key="17306_6" loc-id="17306_6" value="Plesknutí"/>
+    <string key="17306_7" loc-id="17306_7" value="Houba"/>
+  </category>
+
+  <category key="CorelDRAW - Brush Categories">
+    <string key="aa.Recommended" value="Doporučené štětce"/>
+    <string key="Acrylics" value="Akrylové barvy"/>
+    <string key="Airbrushes" value="Airbrushe"/>
+    <string key="Charcoal" value="Uhel"/>
+    <string key="Digital Effects" value="Digitální efekty"/>
+    <string key="Fluid" value="Kapalina"/>
+    <string key="Glazing" value="Glazování"/>
+    <string key="Gouache" value="Kvaš"/>
+    <string key="Inks" value="Inkousty"/>
+    <string key="Markers" value="Značkovače"/>
+    <string key="Oils" value="Oleje"/>
+    <string key="Particles" value="Částice"/>
+    <string key="Pastels and Chalks" value="Pastely a křídy"/>
+    <string key="Pencils" value="Tužky"/>
+    <string key="Sponges" value="Houby"/>
+    <string key="Watercolor" value="Vodové barvy"/>
+  </category>
+
+</string-table>

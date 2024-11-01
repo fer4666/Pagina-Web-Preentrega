@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="Strings.xsl"?>
+<string-table>
+  <category key="Str#" comment="Brushes - Acrylics">
+    <string key="17248_1" loc-id="17248_1" value="Måla och blanda"/>
+    <string key="17248_2" loc-id="17248_2" value="Opak borst"/>
+    <string key="17248_3" loc-id="17248_3" value="Torr och platt"/>
+    <string key="17248_5" loc-id="17248_5" value="Våt detalj"/>
+    <string key="17248_6" loc-id="17248_6" value="Opak detalj"/>
+    <string key="17248_7" loc-id="17248_7" value="Lång och platt"/>
+    <string key="17248_9" loc-id="17248_9" value="Geltvätt"/>
+    <string key="17248_10" loc-id="17248_10" value="Våt och mjuk"/>
+    <string key="17248_12" loc-id="17248_12" value="Våt och tjock"/>
+  </category>
+
+  <category key="Str#" comment="Brushes - Airbrushes">
+    <string key="17249_3" loc-id="17249_3" value="Mjuk"/>
+    <string key="17249_9" loc-id="17249_9" value="Pixelspray"/>
+    <string key="17249_10" loc-id="17249_10" value="Grov spray"/>
+    <string key="17249_12" loc-id="17249_12" value="Stänk"/>
+    <string key="17249_14" loc-id="17249_14" value="Vild"/>
+  </category>
+
+  <category key="Str#" comment="Brushes - Artists' Oils">
+    <string key="17250_1" loc-id="17250_1" value="Kladdig borst"/>
+    <string key="17250_2" loc-id="17250_2" value="Fläk"/>
+    <string key="17250_3" loc-id="17250_3" value="Platt"/>
+    <string key="17250_4" loc-id="17250_4" value="Platt och avsmalnande"/>
+    <string key="17250_5" loc-id="17250_5" value="kort"/>
+    <string key="17250_6" loc-id="17250_6" value="Hasselnöt"/>
+    <string key="17250_7" loc-id="17250_7" value="Bred och klumpig"/>
+  </category>
+
+  <category key="Str#" comment="Brushes - Brave Oils">
+    <string key="17253_7" loc-id="17253_7" value="Smörig"/>
+    <string key="17253_8" loc-id="17253_8" value="Texturerad och punktformad"/>
+    <string key="17253_9" loc-id="17253_9" value="Rörig"/>
+  </category>
+
+  <category key="Str#" comment="Brushes - Buildup Ink">
+    <string key="17254_2" loc-id="17254_2" value="Bred och mjuk"/>
+    <string key="17254_3" loc-id="17254_3" value="Korsstämpel"/>
+    <string key="17254_5" loc-id="17254_5" value="Kroki"/>
+    <string key="17254_8" loc-id="17254_8" value="Tjock och smal"/>
+    <string key="17254_9" loc-id="17254_9" value="Coit"/>
+    <string key="17254_10" loc-id="17254_10" value="Kantig"/>
+    <string key="17254_11" loc-id="17254_11" value="Droppande"/>
+    <string key="17254_12" loc-id="17254_12" value="Läckande penna"/>
+  </category>
+
+  <category key="Str#" comment="Brushes - Chalk">
+    <string key="17256_1" loc-id="17256_1" value="Grundläggande krita"/>
+    <string key="17256_2" loc-id="17256_2" value="Tjock krita"/>
+    <string key="17256_3" loc-id="17256_3" value="Skisskrita"/>
+    <string key="17256_6" loc-id="17256_6" value="Skarp krita"/>
+    <string key="17256_7" loc-id="17256_7" value="Fyrkantig krita"/>
+  </category>
+
+  <category key="Str#" comment="Brushes - Conte">
+    <string key="17257_5" loc-id="17257_5" value="Tråkigt innehåll"/>
+  </category>
+
+  <category key="Str#" comment="Brushes - F-X">
+    <string key="17260_1" loc-id="17260_1" value="Sken"/>
+    <string key="17260_2" loc-id="17260_2" value="Fläckigt sken"/>
+    <string key="17260_4" loc-id="17260_4" value="Moln"/>
+    <string key="17260_7" loc-id="17260_7" value="Liten blixt"/>
+    <string key="17260_14" loc-id="17260_14" value="Älvstoft"/>
+  </category>
+
+  <category key="Str#" comment="Brushes - Glazing">
+    <string key="17262_1" loc-id="17262_1" value="Grov"/>
+    <string key="17262_3" loc-id="17262_3" value="Mjuk"/>
+    <string key="17262_4" loc-id="17262_4" value="Hård"/>
+    <string key="17262_10" loc-id="17262_10" value="Grova borst"/>
+    <string key="17262_13" loc-id="17262_13" value="Lantlig"/>
+  </category>
+
+  <category key="Str#" comment="Brushes - Glow Particles">
+    <string key="17263_1" loc-id="17263_1" value="Slitna sömmar"/>
+    <string key="17263_2" loc-id="17263_2" value="Glitter"/>
+  </category>
+
+  <category key="Str#" comment="Brushes - Gouache">
+    <string key="17264_1" loc-id="17264_1" value="Mjuk"/>
+    <string key="17264_4" loc-id="17264_4" value="Platt"/>
+    <string key="17264_5" loc-id="17264_5" value="Tunna borst"/>
+    <string key="17264_6" loc-id="17264_6" value="Tjock och mjuk"/>
+    <string key="17264_9" loc-id="17264_9" value="Detalj opak"/>
+    <string key="17264_12" loc-id="17264_12" value="Kratta"/>
+  </category>
+
+  <category key="Str#" comment="Brushes - Oils">
+    <string key="17272_1" loc-id="17272_1" value="Impressionist"/>
+    <string key="17272_5" loc-id="17272_5" value="Mjuk"/>
+    <string key="17272_6" loc-id="17272_6" value="Medelborst"/>
+    <string key="17272_10" loc-id="17272_10" value="Hård borst"/>
+    <string key="17272_11" loc-id="17272_11" value="Tunna borst"/>
+  </category>
+
+  <category key="Str#" comment="Brushes - Palette Knives">
+    <string key="17273_2" loc-id="17273_2" value="Inläst palettkniv"/>
+  </category>
+
+  <category key="Str#" comment="Brushes - Pencils">
+    <string key="17275_4" loc-id="17275_4" value="Mjuk 2B"/>
+    <string key="17275_6" loc-id="17275_6" value="Mjuk 6B"/>
+    <string key="17275_10" loc-id="17275_10" value="Mjuk och kornig"/>
+    <string key="17275_11" loc-id="17275_11" value="Hård och kornig"/>
+  </category>
+
+  <category key="Str#" comment="Brushes - Sargent">
+    <string key="17281_1" loc-id="17281_1" value="Sargent"/>
+    <string key="17281_4" loc-id="17281_4" value="Vild och kladdig"/>
+    <string key="17281_5" loc-id="17281_5" value="Udda"/>
+    <string key="17281_7" loc-id="17281_7" value="Klumpig och kornig"/>
+    <string key="17281_9" loc-id="17281_9" value="Ljus textur"/>
+    <string key="17281_11" loc-id="17281_11" value="Kornig och kladdig"/>
+    <string key="17281_12" loc-id="17281_12" value="Palettkniv"/>
+    <string key="17281_15" loc-id="17281_15" value="Flytande skissare"/>
+  </category>
+
+  <category key="Str#" comment="Brushes - Sponges">
+    <string key="17284_1" loc-id="17284_1" value="Mjuk"/>
+    <string key="17284_2" loc-id="17284_2" value="kornig"/>
+    <string key="17284_3" loc-id="17284_3" value="Stor och oljig"/>
+    <string key="17284_4" loc-id="17284_4" value="Kladdig"/>
+    <string key="17284_6" loc-id="17284_6" value="Glättad"/>
+    <string key="17284_7" loc-id="17284_7" value="Inläst och våt"/>
+    <string key="17284_8" loc-id="17284_8" value="Havssvamp"/>
+  </category>
+
+  <category key="Str#" comment="Brushes - Sumi-e">
+    <string key="17285_3" loc-id="17285_3" value="Tjock och blommig borste"/>
+    <string key="17285_7" loc-id="17285_7" value="Avsmalnande borste"/>
+    <string key="17285_13" loc-id="17285_13" value="Tunn detaljborste"/>
+    <string key="17285_14" loc-id="17285_14" value="Våt och kornig borste"/>
+  </category>
+
+  <category key="Str#" comment="Brushes - Thick Particles">
+    <string key="17292_3" loc-id="17292_3" value="Stänk"/>
+    <string key="17292_5" loc-id="17292_5" value="Mjuk borst"/>
+    <string key="17292_9" loc-id="17292_9" value="Hårig och brister"/>
+    <string key="17292_11" loc-id="17292_11" value="Nätkedja"/>
+  </category>
+
+  <category key="Str#" comment="Brushes - Thin Particles">
+    <string key="17293_1" loc-id="17293_1" value="Hårig sprayburk"/>
+    <string key="17293_2" loc-id="17293_2" value="Hårig svans"/>
+    <string key="17293_3" loc-id="17293_3" value="Hårig"/>
+    <string key="17293_5" loc-id="17293_5" value="Blänk"/>
+    <string key="17293_7" loc-id="17293_7" value="kornig"/>
+    <string key="17293_8" loc-id="17293_8" value="Silkesregnbåge"/>
+    <string key="17293_9" loc-id="17293_9" value="Silkesblomma"/>
+    <string key="17293_10" loc-id="17293_10" value="Rökig kedja"/>
+    <string key="17293_11" loc-id="17293_11" value="Bylsig"/>
+    <string key="17293_12" loc-id="17293_12" value="Konceptvarelse"/>
+    <string key="17293_13" loc-id="17293_13" value="Rökig kärna"/>
+    <string key="17293_14" loc-id="17293_14" value="Silkesband"/>
+  </category>
+
+  <category key="Str#" comment="Brushes - Charcoal">
+    <string key="17297_3" loc-id="17297_3" value="Lös"/>
+    <string key="17297_4" loc-id="17297_4" value="Kladdig"/>
+    <string key="17297_5" loc-id="17297_5" value="Mjuk"/>
+    <string key="17297_7" loc-id="17297_7" value="Trubbig penna"/>
+    <string key="17297_8" loc-id="17297_8" value="Lätt penna"/>
+  </category>
+
+  <category key="Str#" comment="Brushes - Markers">
+    <string key="17299_2" loc-id="17299_2" value="Mejselspets"/>
+    <string key="17299_3" loc-id="17299_3" value="Filt"/>
+    <string key="17299_4" loc-id="17299_4" value="Använd"/>
+    <string key="17299_6" loc-id="17299_6" value="Torr spets"/>
+    <string key="17299_7" loc-id="17299_7" value="Smutsig"/>
+    <string key="17299_9" loc-id="17299_9" value="Fin spets"/>
+  </category>
+
+  <category key="Str#" comment="Brushes - Pastels">
+    <string key="17300_2" loc-id="17300_2" value="Skisspastell"/>
+    <string key="17300_3" loc-id="17300_3" value="Hård och rektangulär pastell"/>
+    <string key="17300_4" loc-id="17300_4" value="Sliten fyrkantig pastell"/>
+    <string key="17300_5" loc-id="17300_5" value="Torr och repig Pastell"/>
+    <string key="17300_6" loc-id="17300_6" value="Lös och rektangulär pastell"/>
+    <string key="17300_7" loc-id="17300_7" value="Mjuk och triangulär pastell"/>
+    <string key="17300_12" loc-id="17300_12" value="Oljig och tjock Pastell"/>
+  </category>
+
+  <category key="Str#" comment="Brushes - Fluid - Build and Sculpt">
+    <string key="17304_10" loc-id="17304_10" value="Formbyggare"/>
+    <string key="17304_13" loc-id="17304_13" value="Stripig"/>
+  </category>
+
+  <category key="Str#" comment="Brushes - Fluid - Paint and Blend">
+    <string key="17305_2" loc-id="17305_2" value="Lurvig"/>
+    <string key="17305_9" loc-id="17305_9" value="Slät svamp"/>
+    <string key="17305_12" loc-id="17305_12" value="Susa"/>
+    <string key="17305_13" loc-id="17305_13" value="Tjock borst"/>
+  </category>
+
+  <category key="Str#" comment="Brushes - Watercolor">
+    <string key="17306_1" loc-id="17306_1" value="Borst"/>
+    <string key="17306_2" loc-id="17306_2" value="Torr och lurvig"/>
+    <string key="17306_3" loc-id="17306_3" value="Hasselnöt"/>
+    <string key="17306_4" loc-id="17306_4" value="Stor dämpning"/>
+    <string key="17306_5" loc-id="17306_5" value="Skyar"/>
+    <string key="17306_6" loc-id="17306_6" value="Splash"/>
+    <string key="17306_7" loc-id="17306_7" value="Svamp"/>
+  </category>
+
+  <category key="CorelDRAW - Brush Categories">
+    <string key="aa.Recommended" value="Rekommenderade penslar"/>
+    <string key="Acrylics" value="Akryl"/>
+    <string key="Airbrushes" value="Sprutpistoler"/>
+    <string key="Charcoal" value="Kol"/>
+    <string key="Digital Effects" value="Digitala effekter"/>
+    <string key="Fluid" value="Vätska"/>
+    <string key="Glazing" value="Glättad"/>
+    <string key="Gouache" value="Gouache"/>
+    <string key="Inks" value="Bläck"/>
+    <string key="Markers" value="Märkpennor"/>
+    <string key="Oils" value="Oljor"/>
+    <string key="Particles" value="Partiklar"/>
+    <string key="Pastels and Chalks" value="Pasteller och kritor"/>
+    <string key="Pencils" value="Pennor"/>
+    <string key="Sponges" value="Svampar"/>
+    <string key="Watercolor" value="Vattenfärger"/>
+  </category>
+
+</string-table>

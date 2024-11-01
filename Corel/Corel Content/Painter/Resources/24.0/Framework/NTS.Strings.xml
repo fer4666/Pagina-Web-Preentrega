@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="Strings.xsl"?>
+
+<string-table>
+  <category key="SleepyHollowGeneral">
+    <string key="default-brush-library" value="CorelDRAW"/>
+    <string key="default-brush-category" value="Watercolor"/>
+    <string key="default-brush-variant" value="Sponge"/>
+    <string key="default-paper-library" value="Default Papers"/>
+    <string key="default-flowmap-library" value="Default Flow Maps"/>
+    <string key="default-pattern-library" value="Default Patterns"/>
+    <string key="default-gradient-library" value="Default Gradients"/>
+    <string key="default-nozzle-library" value="Default Nozzles"/>
+    <string key="default-texture-library" value="Default Textures"/>
+    <string key="default-colorset-library" value="Default"/>
+    <string key="default-paper-index" value="0"/>
+    <string key="default-flowmap-index" value="0"/>
+    <string key="default-pattern-index" value="0"/>
+    <string key="default-gradient-index" value="0"/>
+    <string key="default-nozzle-index" value="0"/>
+    <string key="default-texture-index" value="0"/>
+    <string key="default-colorset-index" value="0"/>
+  </category>
+
+  <category key="SleepyHollowStrokeData">
+    <string key="stroke-data-output-dir" value="StrokeData"/>
+    <string key="stroke-data-output-file" value="StrokeData.riff"/>
+  </category>
+
+  <category key="CM Settings Dialog">
+    <string key="Windows ICM" value="Windows CMS"/>
+    <string key="Apple ICM" value="Apple ICM"/>
+  </category>
+
+  <category key="Color Management">
+    <string key="Default RGB profile" value="sRGB IEC61966-2.1"/>
+    <string key="Default CMYK profile" value="U.S. Web Coated (SWOP) v2"/>
+    <string key="PNG Chunk Name" value="PNG Chunk Name"/>
+  </category>
+
+  <category key="Colors" >
+    <string key="R_caption" value="R" />
+    <string key="R_tooltip" value="Red" />
+    <string key="G_caption" value="G" />
+    <string key="G_tooltip" value="Green" />
+    <string key="B_caption" value="B" />
+    <string key="B_tooltip" value="Blue" />
+  </category>
+
+  <category key="Performance">
+    <string key="MultiCore" value="Multi-core" />
+    <string key="GPU" value="GPU" />
+  </category>
+
+  <category key="NTS_General">
+    <string key="LegacyV11DefaultSettingsFileName" value="Painter Settings"/>
+  </category>
+  
+  <category key="File New Dialog">
+    <string key="Default Document Name" value="Untitled-{0}"/>
+  </category>
+
+  <category key="Plugins">
+    <string key="Posterize" value="Posterize"/>
+    <string key="Equalize" value="Equalize"/>
+    <string key="Liquid_Metal" value="Liquid Metal"/>
+    <string key="Brightness_and_Contrast" value="Brightness and Contrast"/>
+    <string key="Glow_Brush" value="Glow Brush"/>
+    <string key="Graphic_Print_Brush" value="Graphic Print Brush"/>
+    <string key="Overlay_Brush" value="Overlay Brush"/>
+    <string key="Burn" value="Burn"/>
+    <string key="Tear" value="Tear"/>
+    <string key="Bevel_World" value="Bevel World"/>
+    <string key="Hue_Brush" value="Hue Brush"/>
+    <string key="Hue_Add_Brush" value="Hue Add Brush"/>
+    <string key="Hue_Sat_Brush" value="Hue Sat Brush"/>
+    <string key="Sat_Add_Brush" value="Sat Add Brush"/>
+    <string key="Val_Add_Brush" value="Val Add Brush"/>
+    <string key="Val_Add_Sat_Sub_Brush" value="Val Add Sat Sub Brush"/>
+    <string key="Kaleidoscope" value="Kaleidoscope"/>
+    <string key="Liquid_Lens" value="Liquid Lens"/>
+    <string key="Glass_Distortion" value="Glass Distortion"/>
+    <string key="Bulge_Brush" value="Bulge Brush"/>
+    <string key="Deep_Well_Brush" value="Deep Well Brush"/>
+    <string key="Diffuse_Motion_Brush" value="Diffuse Motion Brush"/>
+    <string key="Diffuse_Pull_Brush" value="Diffuse Pull Brush"/>
+    <string key="Horizontal_Crease_Brush" value="Horizontal Crease Brush"/>
+    <string key="Left_Twirl_Brush" value="Left Twirl Brush"/>
+    <string key="Liquid_Brush" value="Liquid Brush"/>
+    <string key="Pinch_Brush" value="Pinch Brush"/>
+    <string key="Right_Twirl_Brush" value="Right Twirl Brush"/>
+    <string key="Simple_Diffuse_Brush" value="Simple Diffuse Brush"/>
+    <string key="Vertical_Crease_Brush" value="Vertical Crease Brush"/>
+    <string key="Add_Grain_Brush" value="Add Grain Brush"/>
+    <string key="Blur_Brush" value="Blur Brush"/>
+    <string key="Comb_Brush" value="Comb Brush"/>
+    <string key="Relief_Brush" value="Relief Brush"/>
+    <string key="Sharpen_Brush" value="Sharpen Brush"/>
+    <string key="Confusion_Brush" value="Confusion Brush"/>
+    <string key="Scratch_Remover_Brush" value="Scratch Remover Brush"/>
+  </category>
+
+  <category key="Str#">
+    <string key="1_1" loc-id="1_1" value="Now Opening RIFF File..."/>
+    <string key="1_2" loc-id="1_2" value="Now Saving File To RIFF Format..."/>
+    <string key="1_3" loc-id="1_3" value="Now Evaluating Brush Directions..."/>
+    <string key="1_4" loc-id="1_4" value="Now Placing Brush Strokes..."/>
+    <string key="1_6" loc-id="1_6" value="Untitled"/>
+    <string key="1_16" loc-id="1_16" value="Now Building RIFF Compression Table..."/>
+    <string key="1_239" loc-id="1_239" value="Layer %d"/>
+    <string key="1_443" loc-id="1_443" value="Now Saving File to JPEG Format..."/>
+    <string key="1_444" loc-id="1_444" value="Now Copying JPEG File Into Memory..."/>
+    <string key="1_624" loc-id="1_625" value="Liquid Ink Layer %d"/>
+    <string key="1_631" loc-id="1_632" value="Watercolor Layer %d"/>
+    <string key="1_650" loc-id="1_650" value="Thick Paint Layer %d"/>		
+  </category>
+
+  <category key="Str#">
+    <string key="3_33" loc-id="3_33" value="BOLD.GRD"/>
+    <string key="3_40" loc-id="3_40" value="Painter Patterns"/>
+    <string key="3_42" loc-id="3_42" value="Painter Nozzles.nozzles"/>
+    <string key="3_77" loc-id="3_78" value="Painter Presets.sqlrsr"/>
+    <string key="3_81" loc-id="3_83" value="Painter Papers.papers"/>
+    <string key="3_83" loc-id="3_85" value="More Paper Textures.papers"/>
+    <string key="3_85" loc-id="3_87" value="Wild Textures.papers"/>
+    <string key="3_87" loc-id="3_89" value="More Wild Textures.papers"/>
+    <string key="3_89" loc-id="3_91" value="Simple Patterns.papers"/>
+    <string key="3_91" loc-id="3_93" value="Texture Sampler.papers"/>
+    <string key="3_93" loc-id="3_95" value="Grains.papers"/>
+    <string key="3_95" loc-id="3_97" value="Weaves.papers"/>
+    <string key="3_97" loc-id="3_99" value="Patterns.papers"/>
+    <string key="3_99" loc-id="3_101" value="Nature.papers"/>
+    <string key="3_101" loc-id="3_103" value="Trees&amp;Leaves1.papers"/>
+    <string key="3_103" loc-id="3_105" value="Trees&amp;Leaves2.papers"/>
+    <string key="3_105" loc-id="3_107" value="Dabbler Textures.papers"/>
+  </category>
+
+  <category key="Str#">
+    <string key="27_5" loc-id="27_5" value="File Formats"/>
+  </category>
+
+  <category key="Str#">
+    <string key="28_1" loc-id="28_1" value="Acquire"/>
+    <string key="28_2" loc-id="28_2" value="Adobe Illustrator File..."/>
+  </category>
+
+  <category key="Str#">
+    <string key="400_22" loc-id="400_22" value="RGB"/>
+    <string key="400_106" loc-id="400_106" value="%d°"/>
+    <string key="400_223" loc-id="400_223" value="Corel"/>
+    <string key="400_224" loc-id="400_224" value="SleepyHollow"/>
+    <string key="400_243" loc-id="400_243" value="Now Saving File to PNG Format..."/>
+  </category>
+
+  <category key="Str#">
+    <string key="1003_6" loc-id="1003_6" value="Framework"/>
+  </category>
+
+  <category key="Str#">
+    <string key="1006_1" loc-id="1006_1" value="Default"/>
+  </category>
+
+  <category key="Str#" comment="Flowmaps Resource Names">
+    <string key="17131_1" loc-id="17131_1" value="Clouds"/>
+  </category>
+
+  <category key="Str#" comment="Painter Papers Resource Names">
+    <string key="17500_1" loc-id="17500_1" value="Basic Paper"/>
+  </category>
+
+  <category key="Str#" comment="Gradients Resource Names">
+    <string key="17503_1" loc-id="17503_1" value="Main to Additional Color"/>
+  </category>
+
+  <category key="Str#" comment="Painter Color Set Resource Names">
+    <string key="17700_1" loc-id="17700_1" value="Lemon Yellow"/>
+    <string key="17700_2" loc-id="17700_2" value="Lemon"/>
+    <string key="17700_3" loc-id="17700_3" value="Cadmium Lemon"/>
+    <string key="17700_4" loc-id="17700_4" value="Bizmuth Yellow"/>
+    <string key="17700_5" loc-id="17700_5" value="Transparent Yellow"/>
+    <string key="17700_6" loc-id="17700_6" value="Yellow"/>
+    <string key="17700_7" loc-id="17700_7" value="Chrome Yellow"/>
+    <string key="17700_8" loc-id="17700_8" value="Pale Cadmium Yellow"/>
+    <string key="17700_9" loc-id="17700_9" value="Deep Indian Yellow"/>
+    <string key="17700_10" loc-id="17700_10" value="Indian Yellow"/>
+    <string key="17700_11" loc-id="17700_11" value="Cadmium Yellow"/>
+    <string key="17700_12" loc-id="17700_12" value="Deep Yellow"/>
+    <string key="17700_13" loc-id="17700_13" value="Deep Cadmium Yellow"/>
+    <string key="17700_14" loc-id="17700_14" value="Cadmium Orange"/>
+    <string key="17700_15" loc-id="17700_15" value="Orange"/>
+    <string key="17700_16" loc-id="17700_16" value="Flesh Tint"/>
+    <string key="17700_17" loc-id="17700_17" value="Cadmium Scarlet"/>
+    <string key="17700_18" loc-id="17700_18" value="Scarlet Lake"/>
+    <string key="17700_19" loc-id="17700_19" value="Red"/>
+    <string key="17700_20" loc-id="17700_20" value="Cadmium Red"/>
+    <string key="17700_21" loc-id="17700_21" value="Bright Red"/>
+    <string key="17700_22" loc-id="17700_22" value="Deep Red"/>
+    <string key="17700_23" loc-id="17700_23" value="Deep Cadmium Red"/>
+    <string key="17700_24" loc-id="17700_24" value="Quinacridone Red"/>
+    <string key="17700_25" loc-id="17700_25" value="Permanent Red"/>
+    <string key="17700_26" loc-id="17700_26" value="Rose Dore"/>
+    <string key="17700_27" loc-id="17700_27" value="Rose Madder"/>
+    <string key="17700_28" loc-id="17700_28" value="Alizarin Crimson"/>
+    <string key="17700_29" loc-id="17700_29" value="Permanent Alizarin Crimson"/>
+    <string key="17700_30" loc-id="17700_30" value="Carmine"/>
+    <string key="17700_31" loc-id="17700_31" value="Cobalt Violet"/>
+    <string key="17700_32" loc-id="17700_32" value="Mauve"/>
+    <string key="17700_33" loc-id="17700_33" value="Violet"/>
+    <string key="17700_34" loc-id="17700_34" value="Ultramarine Violet"/>
+    <string key="17700_35" loc-id="17700_35" value="Mauve Blue"/>
+    <string key="17700_36" loc-id="17700_36" value="Permanent Magenta"/>
+    <string key="17700_37" loc-id="17700_37" value="Magenta"/>
+    <string key="17700_38" loc-id="17700_38" value="Quinacridone Magenta"/>
+    <string key="17700_39" loc-id="17700_39" value="Purple Lake"/>
+    <string key="17700_40" loc-id="17700_40" value="Purple Madder"/>
+    <string key="17700_41" loc-id="17700_41" value="Manganese Blue"/>
+    <string key="17700_42" loc-id="17700_42" value="Cerulean Blue"/>
+    <string key="17700_43" loc-id="17700_43" value="Cobalt Blue"/>
+    <string key="17700_44" loc-id="17700_44" value="Deep Cobalt Blue"/>
+    <string key="17700_45" loc-id="17700_45" value="Green Blue"/>
+    <string key="17700_46" loc-id="17700_46" value="Red Blue"/>
+    <string key="17700_47" loc-id="17700_47" value="Ultramarine"/>
+    <string key="17700_48" loc-id="17700_48" value="French Ultramarine"/>
+    <string key="17700_49" loc-id="17700_49" value="Indanthrene Blue"/>
+    <string key="17700_50" loc-id="17700_50" value="Prussian Blue"/>
+    <string key="17700_51" loc-id="17700_51" value="Indigo"/>
+    <string key="17700_52" loc-id="17700_52" value="Phthalo Blue"/>
+    <string key="17700_53" loc-id="17700_53" value="Cobalt Turquoise"/>
+    <string key="17700_54" loc-id="17700_54" value="Light Cobalt Turquoise"/>
+    <string key="17700_55" loc-id="17700_55" value="Cobalt Green"/>
+    <string key="17700_56" loc-id="17700_56" value="Pale Cadmium Green"/>
+    <string key="17700_57" loc-id="17700_57" value="Emerald"/>
+    <string key="17700_58" loc-id="17700_58" value="Light Permanent Green"/>
+    <string key="17700_59" loc-id="17700_59" value="Permanent Green"/>
+    <string key="17700_60" loc-id="17700_60" value="Deep Permanent Green"/>
+    <string key="17700_61" loc-id="17700_61" value="Terre Verte"/>
+    <string key="17700_62" loc-id="17700_62" value="Chromium Oxide"/>
+    <string key="17700_63" loc-id="17700_63" value="Deep Chrome Green"/>
+    <string key="17700_64" loc-id="17700_64" value="Cobalt Chromite Green"/>
+    <string key="17700_65" loc-id="17700_65" value="Viridian"/>
+    <string key="17700_66" loc-id="17700_66" value="Yellow Green"/>
+    <string key="17700_67" loc-id="17700_67" value="Green"/>
+    <string key="17700_68" loc-id="17700_68" value="Prussian Green"/>
+    <string key="17700_69" loc-id="17700_69" value="Sap Green"/>
+    <string key="17700_70" loc-id="17700_70" value="Olive Green"/>
+    <string key="17700_71" loc-id="17700_71" value="Green Gold"/>
+    <string key="17700_72" loc-id="17700_72" value="Jaune Brilliant"/>
+    <string key="17700_73" loc-id="17700_73" value="Light Naples Yellow"/>
+    <string key="17700_74" loc-id="17700_74" value="Naples Yellow"/>
+    <string key="17700_75" loc-id="17700_75" value="Deep Naples Yellow"/>
+    <string key="17700_76" loc-id="17700_76" value="Pale Yellow Ochre"/>
+    <string key="17700_77" loc-id="17700_77" value="Light Yellow Ochre"/>
+    <string key="17700_78" loc-id="17700_78" value="Deep Gold Ochre"/>
+    <string key="17700_79" loc-id="17700_79" value="Yellow Ochre"/>
+    <string key="17700_80" loc-id="17700_80" value="Raw Sienna"/>
+    <string key="17700_81" loc-id="17700_81" value="Gold Ochre"/>
+    <string key="17700_82" loc-id="17700_82" value="Burnt Sienna"/>
+    <string key="17700_83" loc-id="17700_83" value="Brown Oxide"/>
+    <string key="17700_84" loc-id="17700_84" value="Maroon"/>
+    <string key="17700_85" loc-id="17700_85" value="Brown Ochre"/>
+    <string key="17700_86" loc-id="17700_86" value="Red Ochre"/>
+    <string key="17700_87" loc-id="17700_87" value="Terra Rosa"/>
+    <string key="17700_88" loc-id="17700_88" value="Light Red"/>
+    <string key="17700_89" loc-id="17700_89" value="Venetian Red"/>
+    <string key="17700_90" loc-id="17700_90" value="Indian Red"/>
+    <string key="17700_91" loc-id="17700_91" value="Deep Mars Violet"/>
+    <string key="17700_92" loc-id="17700_92" value="Brown Madder"/>
+    <string key="17700_93" loc-id="17700_93" value="Burnt Umber"/>
+    <string key="17700_94" loc-id="17700_94" value="Vandyke Brown"/>
+    <string key="17700_95" loc-id="17700_95" value="Light Raw Umber"/>
+    <string key="17700_96" loc-id="17700_96" value="Green Raw Umber"/>
+    <string key="17700_97" loc-id="17700_97" value="Raw Umber"/>
+    <string key="17700_98" loc-id="17700_98" value="Davy's Grey"/>
+    <string key="17700_99" loc-id="17700_99" value="Charcoal Grey"/>
+    <string key="17700_100" loc-id="17700_100" value="Payne's Grey"/>
+    <string key="17700_101" loc-id="17700_101" value="Blue Black"/>
+    <string key="17700_102" loc-id="17700_102" value="Mars Black"/>
+    <string key="17700_103" loc-id="17700_103" value="Ivory Black"/>
+    <string key="17700_104" loc-id="17700_104" value="Lamp Black"/>
+    <string key="17700_105" loc-id="17700_105" value="Black"/>
+    <string key="17700_106" loc-id="17700_106" value="Perylene Black"/>
+    <string key="17700_107" loc-id="17700_107" value="Gold"/>
+    <string key="17700_108" loc-id="17700_108" value="Renaissance Gold"/>
+    <string key="17700_109" loc-id="17700_109" value="Copper"/>
+    <string key="17700_110" loc-id="17700_110" value="Bronze"/>
+    <string key="17700_111" loc-id="17700_111" value="Pewter"/>
+    <string key="17700_112" loc-id="17700_112" value="Silver"/>
+    <string key="17700_113" loc-id="17700_113" value="Titanium White"/>
+  </category>
+
+  <category key="DefaultBrushLibraries">
+    <string key="CorelDRAW" value="CorelDRAW Brushes"/>
+  </category>
+</string-table>

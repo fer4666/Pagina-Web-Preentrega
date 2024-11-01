@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="Strings.xsl"?>
+<string-table>
+  <category key="Str#" comment="Brushes - Acrylics">
+    <string key="17248_1" loc-id="17248_1" value="Краска и перетекание"/>
+    <string key="17248_2" loc-id="17248_2" value="Непрозрачная щетина"/>
+    <string key="17248_3" loc-id="17248_3" value="Сухая плоская"/>
+    <string key="17248_5" loc-id="17248_5" value="Жидкая деталь"/>
+    <string key="17248_6" loc-id="17248_6" value="Непрозрачная деталь"/>
+    <string key="17248_7" loc-id="17248_7" value="Длинная плоская"/>
+    <string key="17248_9" loc-id="17248_9" value="Гелевый прибой"/>
+    <string key="17248_10" loc-id="17248_10" value="Влажная мягкая"/>
+    <string key="17248_12" loc-id="17248_12" value="Влажная толстая"/>
+  </category>
+
+  <category key="Str#" comment="Brushes - Airbrushes">
+    <string key="17249_3" loc-id="17249_3" value="Мягкая"/>
+    <string key="17249_9" loc-id="17249_9" value="Пиксельный аэрозоль"/>
+    <string key="17249_10" loc-id="17249_10" value="Грубый аэрозоль"/>
+    <string key="17249_12" loc-id="17249_12" value="Посыпка"/>
+    <string key="17249_14" loc-id="17249_14" value="Дикая"/>
+  </category>
+
+  <category key="Str#" comment="Brushes - Artists' Oils">
+    <string key="17250_1" loc-id="17250_1" value="Жирная щетина"/>
+    <string key="17250_2" loc-id="17250_2" value="Веерная"/>
+    <string key="17250_3" loc-id="17250_3" value="Плоская"/>
+    <string key="17250_4" loc-id="17250_4" value="Плоская заостренная"/>
+    <string key="17250_5" loc-id="17250_5" value="Короткая"/>
+    <string key="17250_6" loc-id="17250_6" value="Филберт"/>
+    <string key="17250_7" loc-id="17250_7" value="Широкая комковатая"/>
+  </category>
+
+  <category key="Str#" comment="Brushes - Brave Oils">
+    <string key="17253_7" loc-id="17253_7" value="Маслянистая"/>
+    <string key="17253_8" loc-id="17253_8" value="Текстурированный пунктир"/>
+    <string key="17253_9" loc-id="17253_9" value="Небрежный"/>
+  </category>
+
+  <category key="Str#" comment="Brushes - Buildup Ink">
+    <string key="17254_2" loc-id="17254_2" value="Широкая гладкая"/>
+    <string key="17254_3" loc-id="17254_3" value="Сетчатая штриховка"/>
+    <string key="17254_5" loc-id="17254_5" value="Croquil"/>
+    <string key="17254_8" loc-id="17254_8" value="Толстая и тонкая"/>
+    <string key="17254_9" loc-id="17254_9" value="Coit"/>
+    <string key="17254_10" loc-id="17254_10" value="Зубчатый"/>
+    <string key="17254_11" loc-id="17254_11" value="С потеками"/>
+    <string key="17254_12" loc-id="17254_12" value="Подтекающее перо"/>
+  </category>
+
+  <category key="Str#" comment="Brushes - Chalk">
+    <string key="17256_1" loc-id="17256_1" value="Базовый мелок"/>
+    <string key="17256_2" loc-id="17256_2" value="Жирный мелок"/>
+    <string key="17256_3" loc-id="17256_3" value="Эскизный мелок"/>
+    <string key="17256_6" loc-id="17256_6" value="Острый мелок"/>
+    <string key="17256_7" loc-id="17256_7" value="Квадратный мелок"/>
+  </category>
+
+  <category key="Str#" comment="Brushes - Conte">
+    <string key="17257_5" loc-id="17257_5" value="Матовый Conte"/>
+  </category>
+
+  <category key="Str#" comment="Brushes - F-X">
+    <string key="17260_1" loc-id="17260_1" value="Свечение"/>
+    <string key="17260_2" loc-id="17260_2" value="Пятнистое свечение"/>
+    <string key="17260_4" loc-id="17260_4" value="Облако"/>
+    <string key="17260_7" loc-id="17260_7" value="Маленькая молния"/>
+    <string key="17260_14" loc-id="17260_14" value="Звездная пыль"/>
+  </category>
+
+  <category key="Str#" comment="Brushes - Glazing">
+    <string key="17262_1" loc-id="17262_1" value="Грубая"/>
+    <string key="17262_3" loc-id="17262_3" value="Мягкий"/>
+    <string key="17262_4" loc-id="17262_4" value="Твердый"/>
+    <string key="17262_10" loc-id="17262_10" value="Грубая щетина"/>
+    <string key="17262_13" loc-id="17262_13" value="Простой"/>
+  </category>
+
+  <category key="Str#" comment="Brushes - Glow Particles">
+    <string key="17263_1" loc-id="17263_1" value="Разорванные швы"/>
+    <string key="17263_2" loc-id="17263_2" value="Бенгальский огонь"/>
+  </category>
+
+  <category key="Str#" comment="Brushes - Gouache">
+    <string key="17264_1" loc-id="17264_1" value="Мягкий"/>
+    <string key="17264_4" loc-id="17264_4" value="Плоская"/>
+    <string key="17264_5" loc-id="17264_5" value="Тонкая щетина"/>
+    <string key="17264_6" loc-id="17264_6" value="Толстая мягкая"/>
+    <string key="17264_9" loc-id="17264_9" value="Детальная непрозрачная"/>
+    <string key="17264_12" loc-id="17264_12" value="Скребок"/>
+  </category>
+
+  <category key="Str#" comment="Brushes - Oils">
+    <string key="17272_1" loc-id="17272_1" value="Импрессионист"/>
+    <string key="17272_5" loc-id="17272_5" value="Мягкий"/>
+    <string key="17272_6" loc-id="17272_6" value="Средняя щетина"/>
+    <string key="17272_10" loc-id="17272_10" value="Жесткая щетина"/>
+    <string key="17272_11" loc-id="17272_11" value="Тонкая щетина"/>
+  </category>
+
+  <category key="Str#" comment="Brushes - Palette Knives">
+    <string key="17273_2" loc-id="17273_2" value="Загруженный мастихин"/>
+  </category>
+
+  <category key="Str#" comment="Brushes - Pencils">
+    <string key="17275_4" loc-id="17275_4" value="Мягкий 2B"/>
+    <string key="17275_6" loc-id="17275_6" value="Мягкий 6B"/>
+    <string key="17275_10" loc-id="17275_10" value="Мягкий зернистый"/>
+    <string key="17275_11" loc-id="17275_11" value="Твердый зернистый"/>
+  </category>
+
+  <category key="Str#" comment="Brushes - Sargent">
+    <string key="17281_1" loc-id="17281_1" value="Сарджент"/>
+    <string key="17281_4" loc-id="17281_4" value="Дикий жирный"/>
+    <string key="17281_5" loc-id="17281_5" value="Причудливый"/>
+    <string key="17281_7" loc-id="17281_7" value="Зернистый с комками"/>
+    <string key="17281_9" loc-id="17281_9" value="Легкая текстура"/>
+    <string key="17281_11" loc-id="17281_11" value="Зернистый жирный"/>
+    <string key="17281_12" loc-id="17281_12" value="Мастихин"/>
+    <string key="17281_15" loc-id="17281_15" value="Жидкий эскизный"/>
+  </category>
+
+  <category key="Str#" comment="Brushes - Sponges">
+    <string key="17284_1" loc-id="17284_1" value="Мягкий"/>
+    <string key="17284_2" loc-id="17284_2" value="Зернистая"/>
+    <string key="17284_3" loc-id="17284_3" value="Большой масляный"/>
+    <string key="17284_4" loc-id="17284_4" value="Жирная"/>
+    <string key="17284_6" loc-id="17284_6" value="Глазурь"/>
+    <string key="17284_7" loc-id="17284_7" value="Загруженный влажный"/>
+    <string key="17284_8" loc-id="17284_8" value="Морская губка"/>
+  </category>
+
+  <category key="Str#" comment="Brushes - Sumi-e">
+    <string key="17285_3" loc-id="17285_3" value="Толстая кисть"/>
+    <string key="17285_7" loc-id="17285_7" value="Конусная кисть"/>
+    <string key="17285_13" loc-id="17285_13" value="Тонкая детальная кисть"/>
+    <string key="17285_14" loc-id="17285_14" value="Влажная зернистая кисть"/>
+  </category>
+
+  <category key="Str#" comment="Brushes - Thick Particles">
+    <string key="17292_3" loc-id="17292_3" value="Разбрызгиватель"/>
+    <string key="17292_5" loc-id="17292_5" value="Мягкая щетина"/>
+    <string key="17292_9" loc-id="17292_9" value="Мохнатый взрыв"/>
+    <string key="17292_11" loc-id="17292_11" value="Паутинная цепь"/>
+  </category>
+
+  <category key="Str#" comment="Brushes - Thin Particles">
+    <string key="17293_1" loc-id="17293_1" value="Мохнатый распылитель"/>
+    <string key="17293_2" loc-id="17293_2" value="Мохнатый хвост"/>
+    <string key="17293_3" loc-id="17293_3" value="Меховая"/>
+    <string key="17293_5" loc-id="17293_5" value="Блик"/>
+    <string key="17293_7" loc-id="17293_7" value="Зернистая"/>
+    <string key="17293_8" loc-id="17293_8" value="Шелковая радуга"/>
+    <string key="17293_9" loc-id="17293_9" value="Шелковый цветок"/>
+    <string key="17293_10" loc-id="17293_10" value="Дымчатая цепь"/>
+    <string key="17293_11" loc-id="17293_11" value="Лохматая"/>
+    <string key="17293_12" loc-id="17293_12" value="Придуманное существо"/>
+    <string key="17293_13" loc-id="17293_13" value="Дымчатое ядро"/>
+    <string key="17293_14" loc-id="17293_14" value="Шелковая лента"/>
+  </category>
+
+  <category key="Str#" comment="Brushes - Charcoal">
+    <string key="17297_3" loc-id="17297_3" value="Расплывчатый"/>
+    <string key="17297_4" loc-id="17297_4" value="Жирная"/>
+    <string key="17297_5" loc-id="17297_5" value="Мягкий"/>
+    <string key="17297_7" loc-id="17297_7" value="Незаточенный карандаш"/>
+    <string key="17297_8" loc-id="17297_8" value="Световой карандаш"/>
+  </category>
+
+  <category key="Str#" comment="Brushes - Markers">
+    <string key="17299_2" loc-id="17299_2" value="Скошенный кончик"/>
+    <string key="17299_3" loc-id="17299_3" value="Фломастер"/>
+    <string key="17299_4" loc-id="17299_4" value="Старая"/>
+    <string key="17299_6" loc-id="17299_6" value="Сухой кончик"/>
+    <string key="17299_7" loc-id="17299_7" value="Грязный"/>
+    <string key="17299_9" loc-id="17299_9" value="Тонкий кончик"/>
+  </category>
+
+  <category key="Str#" comment="Brushes - Pastels">
+    <string key="17300_2" loc-id="17300_2" value="Эскизная пастель"/>
+    <string key="17300_3" loc-id="17300_3" value="Старая прямоугольная пастель"/>
+    <string key="17300_4" loc-id="17300_4" value="Изношенная квадратная пастель"/>
+    <string key="17300_5" loc-id="17300_5" value="Сухая царапающая пастель"/>
+    <string key="17300_6" loc-id="17300_6" value="Рыхлая прямоугольная пастель"/>
+    <string key="17300_7" loc-id="17300_7" value="Мягкая треугольная пастель"/>
+    <string key="17300_12" loc-id="17300_12" value="Масляная лохматая пастель"/>
+  </category>
+
+  <category key="Str#" comment="Brushes - Fluid - Build and Sculpt">
+    <string key="17304_10" loc-id="17304_10" value="Конструктор форм"/>
+    <string key="17304_13" loc-id="17304_13" value="Легкий"/>
+  </category>
+
+  <category key="Str#" comment="Brushes - Fluid - Paint and Blend">
+    <string key="17305_2" loc-id="17305_2" value="Шероховатый"/>
+    <string key="17305_9" loc-id="17305_9" value="Гладкая губка"/>
+    <string key="17305_12" loc-id="17305_12" value="Свуш"/>
+    <string key="17305_13" loc-id="17305_13" value="Толстая щетина"/>
+  </category>
+
+  <category key="Str#" comment="Brushes - Watercolor">
+    <string key="17306_1" loc-id="17306_1" value="Щетина"/>
+    <string key="17306_2" loc-id="17306_2" value="Сухой шероховатый"/>
+    <string key="17306_3" loc-id="17306_3" value="Филберт"/>
+    <string key="17306_4" loc-id="17306_4" value="Крупный легкий"/>
+    <string key="17306_5" loc-id="17306_5" value="Небеса"/>
+    <string key="17306_6" loc-id="17306_6" value="Брызги"/>
+    <string key="17306_7" loc-id="17306_7" value="Губка"/>
+  </category>
+
+  <category key="CorelDRAW - Brush Categories">
+    <string key="aa.Recommended" value="Рекомендуемые кисти"/>
+    <string key="Acrylics" value="Акрил"/>
+    <string key="Airbrushes" value="Аэрографы"/>
+    <string key="Charcoal" value="Уголь"/>
+    <string key="Digital Effects" value="Цифровые эффекты"/>
+    <string key="Fluid" value="Жидкость"/>
+    <string key="Glazing" value="Глазурь"/>
+    <string key="Gouache" value="Гуашь"/>
+    <string key="Inks" value="Чернила"/>
+    <string key="Markers" value="Маркеры"/>
+    <string key="Oils" value="Масло"/>
+    <string key="Particles" value="Частицы"/>
+    <string key="Pastels and Chalks" value="Пастели и мелки"/>
+    <string key="Pencils" value="Карандаши"/>
+    <string key="Sponges" value="Губки"/>
+    <string key="Watercolor" value="Акварель"/>
+  </category>
+
+</string-table>
